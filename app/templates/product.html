@@ -1,0 +1,283 @@
+{% extends "base.html" %}
+{% block title %} {{provider}} - Virtual Data Room Review &amp; Pricing | DataRoomSearch.com{% endblock %}
+{% block body %}
+{% for selectedProduct in products.data %}
+{% if selectedProduct.name == provider %}
+  <section class="spacer"></section>
+  <div class="container column">
+    <div class="column">
+		 <div>
+
+      <!-- CARD HEADER -->
+
+        <div>
+          <div>
+            <div class="row">
+              
+              <!-- Header Left -->
+              <div flex class="product-header-left">
+
+                <img src="https://www.dataroomsearch.com{{ selectedProduct.logoURL }}" alt="{{ selectedProduct.name }} Logo" class="productpage-logo" />
+                <h1 class="md-display-2">{{ selectedProduct.name }}</h1>
+                <span class="md-headline">
+                  <p>{{ selectedProduct.type }}</p>
+                </span>
+                <span class="md-subhead">
+                  {{ selectedProduct.tagline }}
+                </span>                
+              </div>
+              
+
+              <!-- Header Right -->
+              <div flex class="product-header-right">
+
+                <!-- Reviews -->
+                <div  class="header-review-summary">
+                  <span>
+                    <span class="md-body-2">Reviews:</span> {{ selectedProduct.avg_review_rating }} / 5 
+                  </span>
+                  <span>
+                    ({{ selectedProduct.num_reviews }} reviewers)
+                  </span>
+                </div>
+                
+                <!-- Intended Users -->
+                <div class="header-intendedusers row" layout-xs="column">
+                  <div flex class="intended-users-left">
+                    <span class="md-body-2">Intended for:</span>
+                    {% for usecase in selectedProduct.usecases %}
+                    <span>
+                      <p class="md-body-1">{{usecase}}</p>
+                    </span>
+                    {% endfor %}
+                  </div>
+                  <div flex class="intended-users-right">
+                    <span class="md-body-2">Industry Solutions:</span>
+                    {% for industry in selectedProduct.industries %}
+                    <span ng-if="selectedProduct.industries != undefined">
+                      <p class="md-body-1">{{industry}}</p>
+                    </span>
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <!-- FEATURES BLOCK -->
+
+          <div class="product-content-block">
+            <h2>Features</h2>       
+
+            <!-- Features Row 1 --> 
+            <div class="row" layout-xs="column">
+            <!-- Security Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Security</h3>
+                </span>
+                {% for feature in selectedProduct.features.security %}
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>   
+              <!-- Reporting & Tracking Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Reporting & Tracking</h3>
+                </span>
+                {% for feature in selectedProduct.features.reporting %}
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span> 
+                {% endfor %}
+              </div>              
+              <!-- User Permissions Features -->   
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Permissions & User Management</h3>
+                </span>
+                {% for feature in selectedProduct.features.user_management %}
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>  
+            </div>  
+            <!-- End Row 1 -->
+
+            <!-- Features Row 2 -->
+            <div class="row" layout-xs="column">
+
+              <!-- Document Management Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Document Management</h3>
+                </span>
+                {% for feature in selectedProduct.features.doc_management %}   
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>  
+
+              <!-- Accessibility Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Accessibility</h3>
+                </span>
+                {% for feature in selectedProduct.features.accessibility %}  
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>
+
+              <!-- Collaboration Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Collaboration & Question/Answer</h3>
+                </span>
+                {% for feature in selectedProduct.features.collaboration %}    
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>             
+            </div> 
+            <!-- End Row 2 -->
+
+            <!-- Features Row 3 -->
+            <div class="row" layout-xs="column">
+
+              <!-- Client Management Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Client Management</h3>
+                </span>
+                {% for feature in selectedProduct.features.client_management %}   
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>   
+
+              <!-- Customization Features -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Customization</h3>
+                </span>
+                {% for feature in selectedProduct.features.customization %}    
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}
+              </div>
+
+              <!-- Integrations -->
+              <div flex class="feature-column">
+                <span class="md-subhead">
+                  <h3>Integrations</h3>
+                </span>
+                {% for feature in selectedProduct.features.integration %}
+                <span>
+                  <p class="md-body-1">{{feature}}</p>
+                </span>
+                {% endfor %}             
+              </div> 
+
+            </div>
+            <!-- End Row 3 --> 
+          </div>  
+
+          <h2>Pricing Options</h2>     
+
+          <!-- Test -->
+          <div class="table-container">
+            <table class="plans-table">
+              <th></th>
+              {% for plan in selectedProduct.plans %}
+                <td class="plan-name">
+                  <h3 class="md-tlte">{{plan.name}}</h3>
+                  <p class="md-body-1">{{plan.tagline}}</p>
+                </td>
+              {% endfor %}  
+              <tr>
+                <td class="row-name">
+                  <p class="md-body-2">Price</p>
+                </td>
+                {% for plan in selectedProduct.plans %}
+                <td class="plan-price-block">
+                  <span class="plan-price">
+                    <p class="md-headline">{{plan.price}}</p>
+                  </span>
+                  <span class="plan-pricing-model">
+                    <p>{{plan.pricing_model}}</p>
+                  </span>
+                </td>
+                {% endfor %} 
+              </tr> 
+              {% for bullet in selectedProduct.pricing_plan_bullets %}                 
+              <tr>
+                <td class="row-name">
+                  <p class="md-body-2">{{ bullet.name }}</p>
+                </td>
+                {% for plan_value in bullet.value %}
+                <td>
+                  <p>{{ plan_value.value }}</p>
+                </td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </table>
+
+          </div> 
+
+          <!-- Support Section -->
+          <div class="row" layout-xs="column">
+            <div flex>
+              <span class="md-subhead">
+                <h2>Product Support</h2>
+              </span>    
+              <ul>
+                {% for feature in selectedProduct.features.support %}
+                <li>
+                  <p>{{feature}}</p>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>  
+          </div> 
+          <!-- Related Providers Section -->
+          <div class="row" layout-xs="column">
+            <div flex>
+              <span class="md-subhead">
+                <h2>Related VDR Providers</h2>
+              </span>    
+              <ul class="row" layout-xs="column">
+                {% for relatedProduct in relatedProducts %}
+                <li class="column">
+                  <img class="img-logo" src="{{relatedProduct.logoURL}}">
+                  <p>
+                    <a href="https://dataroomsearch.com/virtual-data-room-provider/{{relatedProduct.urlSlug}}">{{relatedProduct.name}}</a>
+                  </p>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>  
+          </div>
+
+        </div>
+
+      </div>
+	</div>
+</div>
+{% endif %}
+{% endfor %}
+<script>
+  {{ product_schema | safe }}
+</script>
+{% endblock %}

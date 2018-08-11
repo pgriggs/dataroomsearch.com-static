@@ -1,0 +1,6106 @@
+{
+	"count": 20,
+	"missing_listings": ["Egnyte"],
+	"data": [{
+		"name": "CapLinked",
+		"last_update": "March 2018",
+		"urlSlug": "CapLinked",
+		"anchor": "caplinked",
+		"logoURL": "images/CapLinked-virtual-data-room.jpg",
+		"pubSite": "https://www.caplinked.com/free-trial",
+		"type": "Virtual Data Room",
+		"company": "CapLinked",
+		"tagline": "Intelligent and easy-to-use tools to help you share files with confidence.",
+		"usecases": ["Finance", "Asset Sales & Purchases", "Project Management", "Legal Compliance", "Corporate Mergers & Acquisitions", "Audits"],
+		"industries": ["Investment Banking", "Private Equity", "Venture Capital", "Finance", "Life Sciences", "Natural Resources", "Legal"],
+		"avg_review_rating": "4.9",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "15",
+		"popularity": 73.5,
+		"rank": 1,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "8",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "0",
+			"num_ratings": "0"
+
+		}, {
+			"source": "tr",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "4.7",
+			"num_ratings": "7"
+		}],
+		"description": {
+			"main": "CapLinked is one of the highest quality data rooms on the market. They offer a breadth of features and are one of the most fairly priced data rooms as well. CapLinked also stands out when considering the customizability of the data room and the workflow. The company has only been around since 2010 and they do not have a large track record of reviews or a profile with the BBB. However, they do offer fantastic resources on their website and have a very responsive team managing their customer service, so expect high quality service as a user. CapLinked also integrates with top enterprise software, like Salesforce CRM, Dropbox, and Google Drive, and even allows for custom integration. CapLinked is a strong product in almost every aspect, including security, reporting, customization, and ease of use.",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"integrations": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Military Grade 256-bit Encryption", "Premium-Grade TLS Protocol", "PCI SAQ-D Compliant", "Cloud Security Alliance Membership", "SSAE16 Type I Certified Servers", "ISO 27001 Certified", "Watermarking", "Audit Trail of User Actions", "Secure Workspaces", "HIPAA Compliance", "AICPA SOC 2 Certified", "Virus Scanning", "Secure HTTPS Connections", "Multi-layer Security Firewalls", "Hosted via Amazon Web Services & Amazon OpsWorks"],
+			"doc_management": ["Bulk Uploads", "Drag & Drop File Upload", "Drag & Drop Folder Upload", "Full Text Search", "View Files from Browser", "Modify MS Office Files from Caplinked Platform", "Automatic Version Control", "Upload from Browser", "Fast Upload Speeds"],
+			"user_management": ["Permission Control", "Custom Groups", "Download Permissions", "Digital Rights Management", "Revokable Access", "Workspace Monitoring"],
+			"collaboration": ["Secure Collaboration Workspaces", "Alert Workspace Members", "Integrated Instant Messaging", "Assign Subject Matter Experts", "FAQ Notifications", "Activity Feed"],
+			"accessibility": ["Web-based Platform", "Compatible with All Major Browsers", "Compatible with Mobile Devices", "No Plugins Required", "Edit Files without Download", "User Dashboard"],
+			"client_management": ["Deal Pipline Management", "Deal Dashboard"],
+			"integration": ["Salesforce", "Microsoft Office"],
+			"customization": ["Custom Branding", "Custom Alerts"],
+			"reporting": ["Track Document Views", "Track Downloads", "Track Uploads", "Track Permission Changes", "Track Viewed Pages", "Audit Trail of User Actions", "Retrieve Previous Versions", "Custom Filters for Reports"],
+			"support": ["Unlimited Phone/Email Support", "24/7/365", "Dedicated Account Representative", "Training Offered"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"Two-Factor Authentication": "yes",
+			"Watermarking": "yes",
+			"Full Text Search": "yes",
+			"Version Control": "yes",
+			"ISO 27001 Compliance": "yes",
+			"SOC 2 Compliance": "yes",
+			"HIPAA Compliance": "yes"
+		},
+		"price": "Consultation Required",
+		"plans": [{
+			"name": "Standard",
+			"tagline": "Simple and secure document sharing designed for small teams and projects.",
+			"price": "$29 per month",
+			"pricing_model": "$50/month Per Additional GB",
+			"num_users": "Unlimited Users",
+			"num_projects": "1 Workspace",
+			"storage": "500 MB Usage",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Professional",
+			"tagline": "Our best value plan with advanced document security and customization.",
+			"price": "$99 per month",
+			"pricing_model": "$50/month Per Additional GB",
+			"num_users": "Unlimited Users",
+			"num_projects": "1 Workspace",
+			"storage": "1GB Usage",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Business",
+			"tagline": "Premium admin controls, fully customizable workflow solutions, single sign-on, API integration access, and compliance.",
+			"price": "Consultation Required",
+			"pricing_model": " for pricing details",
+			"num_users": "Unlimited Users",
+			"num_projects": "Unlimited Workspaces",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Workspaces",
+			"value": [{
+				"name": "Standard",
+				"value": "One Workspace"
+			}, {
+				"name": "Professional",
+				"value": "One Workspace"
+			}, {
+				"name": "Business",
+				"value": "Unlimited Workspaces"
+			}]
+		}, {
+			"name": "Number of Users",
+			"value": [{
+				"name": "Standard",
+				"value": "Unlimited Users"
+			}, {
+				"name": "Professional",
+				"value": "Unlimited Users"
+			}, {
+				"name": "Business",
+				"value": "Unlimited Workspaces"
+			}]
+		}, {
+			"name": "Data/Storage",
+			"value": [{
+				"name": "Standard",
+				"value": "500 MB"
+			}, {
+				"name": "Professional",
+				"value": "1 GB"
+			}, {
+				"name": "Business",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "SSAE 16 Type II Security",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Two-Factor Authentication",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Digital Rights Management",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Watermarking",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Branding",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Unlimited Phone & Email Support",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "24/7/365 Availability",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Complete Workspace Setup",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Data Migration",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Professional Services",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "Ansarada",
+		"last_update": "March 2018",
+		"urlSlug": "Ansarada",
+		"logoURL": "images/ansarada-virtual-data-room.jpg",
+		"anchor": "anarada",
+		"pubSite": "https://www.ansarada.com/",
+		"type": "Virtual Data Room for Mergers & Acquisitions",
+		"company": "Ansarada",
+		"tagline": "Designed exclusively for M&A",
+		"usecases": ["Mergers & Acquisitions"],
+		"industries": ["Any Industry"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "2",
+		"popularity": 5,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "2",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "cap",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["ISO 27001 Certified", "SAS 70 Type II Compliant", "Disaster Recovery", "Development Practices Consistent with OWASP", "Automatic Watermarking", "Self Destruct Documents"],
+			"doc_management": ["Data Room Archive on USB", "Download Data Room Archive", "Bulk Upload, Edit, & Delete on Documents", "Upload from Browser", "Search & Bulk Download", "All Q&A in One Excel File", "Search by File Type", "Search inside Zip Files", "Auto File Numbering"],
+			"user_management": ["Simple User Access Dashboard", "Restrict Access by Location", "Set Timeout Limits", "Expire Saved Documents", "Test User Perspective", "Bidder Activity Monitoring", "Activity Tracking Outside of Data Room"],
+			"collaboration": ["Q&A", "Q&A Subjects", "Set Question Limits", "Assign Q&A Roles", "Autosave Q&A Content", "Bottleneck Management", "Q&A Notifications"],
+			"accessibility": ["Any Browser", "Any Device", "13 Languages: English, Chinese (simplified), Chinese (traditional), Dutch, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish (Spain) or Spanish (Latin America)", "No Java or Flash", "Process Up to 10GB/s"],
+			"client_management": [""],
+			"integration": ["Microsoft Office"],
+			"customization": ["Custom Branding", "Set Terms of Access", "Custom Email Invites"],
+			"reporting": ["Archive on USB", "Security Summary Report", "Print & Excel Friendly", "Notifications on Document Update", "History of Changes"],
+			"support": ["24/7 Support", "Help Center", "Global Client Services Team"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Consultation Required",
+		"plans": [{
+			"name": "Ansarada Pricing Summary",
+			"tagline": "Zero Surprises",
+			"price": "Pay by Page or MB",
+			"pricing_model": "Consultation Required - a variety of custom solutions available in 1, 3, 6, & 12 month durations",
+			"num_users": "Unlimited",
+			"num_projects": "",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Ansarada Pricing Summary",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Ansarada Pricing Summary",
+				"value": "Unlimited (discounts for large files)"
+			}]
+		}, {
+			"name": "Max File Size",
+			"definition": "",
+			"value": [{
+				"name": "Ansarada Pricing Summary",
+				"value": "Unlimited (discounts for large files)"
+			}]
+		}, {
+			"name": "Features",
+			"definition": "",
+			"value": [{
+				"name": "Ansarada Pricing Summary",
+				"value": "All Ansarada Features Included"
+			}]
+		}]
+	}, {
+		"name": "Citrix ShareFile",
+		"last_update": "March 2018",
+		"urlSlug": "Citrix-ShareFile",
+		"logoURL": "images/Citrix-ShareFile-Virtual-Data-Room.jpg",
+		"anchor": "citrix-sharefile",
+		"pubSite": "https://www.sharefile.com/virtual-data-room",
+		"videoURL": "https://www.youtube.com/watch?v=eM2UlPV1lJQ",
+		"type": "Secure File Syncing & Sharing Platform and Virtual Data Room",
+		"company": "Citrix",
+		"tagline": "The Simple, Secure Way to Collaborate",
+		"usecases": ["Secure File Sharing with Clients", "Secure File Sharing within Teams/Organizations "],
+		"industries": ["Accounting", "Construction", "Finance", "Insurance", "Manufacturing", "Architecture", "Engineering", "Healthcare", "Legal", "Real Estate", "Investment Banking", "Private Equity", "Venture Capital", "Business Brokers", "Biotech and Pharmaceutical", "Financial Advising", "Investment Management", "Government Contractors"],
+		"avg_review_rating": "4.2",
+		"avg_review_img": "4-star.png",
+		"num_reviews": "111",
+		"popularity": 466.2,
+		"rank": 3,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "3.7",
+			"num_ratings": "3",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "4.2",
+			"num_ratings": "97",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "3.9",
+			"num_ratings": "4"
+		}, {
+			"source": "ga",
+			"avg_rating": "4.5",
+			"num_ratings": "4"
+		}, {
+			"source": "cap",
+			"avg_rating": "4.5",
+			"num_ratings": "3"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["SSAE16 Certified Datacenter", "SOC 2 Certified", "Bank-level Encryption", "Multiple Global Storage Locations", "Disaster Recovery Centers in US & Europe", "SSL/TLS Encryption during Transfer", "AES 256-bit D42:H55 Encryption during Storage", "Generate Sharable Secure Upload Link", "Dynamic Watermarking", "Encrypted Email", "Passcode Protection"],
+			"doc_management": ["Data Expiration Options", "No File Size Restrictions", "Automatic File Syncing", "Desktop Folder Syncing", "Versioning", "File Archives", "Folder Templates", "Secure FTP"],
+			"user_management": ["Download Alerts", "Remote Wipe for Lost Devices", "View Only Permissions", "Granular Security Settings", "Device Lock", "Whitelist/Blacklist Users", "Restrict Access by DLP Classification"],
+			"collaboration": ["Folder Q&A"],
+			"accessibility": ["99.9% Uptime", "Workflow Automation"],
+			"client_management": [""],
+			"integration": ["Microsoft Outlook", "Gmail"],
+			"customization": [""],
+			"reporting": ["Activity Reports", "Click Trails", "Real Time Activity Tracking", "Custom Reports for Compliance Needs"],
+			"support": [""]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Starting at $16 per month per user",
+		"plans": [{
+			"name": "Personal",
+			"tagline": "All the essential tools to get your small shop started.",
+			"price": "$16",
+			"pricing_model": "per month billed annually ($20/month if billed monthly)",
+			"num_users": "1 Employee Account",
+			"num_projects": "Unlimited Client Users",
+			"storage": "100GB",
+			"max_file_size": "10GB",
+			"features": ["24/7 Customer Support", "Custom Branding", "Feedback & Approvals Workflow", "Unlimited Clients", "Multifactor Authentication", "Mobile Apps", "Co-editing", "Sync", "Desktop Widget", "Activity Logs", "Versioning", "FTP", "Third Party Integrations", "E-signature Integration"]
+		}, {
+			"name": "Team",
+			"tagline": "Full file-sharing functionality and storage for your growing business.",
+			"price": "$60",
+			"pricing_model": "per month billed annually ($75/month if billed monthly)",
+			"num_users": "5 Employee Accounts ($8 per additional account)",
+			"num_projects": "Unlimited Client Users",
+			"storage": "1TB",
+			"max_file_size": "10GB",
+			"features": ["24/7 Customer Support", "Custom Branding", "Feedback & Approvals Workflow", "Unlimited Clients", "Multifactor Authentication", "Mobile Apps", "Co-editing", "Sync", "Desktop Widget", "Activity Logs", "Versioning", "FTP", "Third Party Integrations", "E-signature Integration", "Mobile Editing", "Email Plugin"]
+		}, {
+			"name": "Business",
+			"tagline": "Comprehensive file-sharing for highly collaborative teams.",
+			"price": "$100",
+			"pricing_model": "per month billed annually ($125/month if billed monthly)",
+			"num_users": "5 Employee Accounts ($10 per additional account)",
+			"num_projects": "Unlimited Client Users",
+			"storage": "Unlimited",
+			"max_file_size": "10GB",
+			"features": ["24/7 Customer Support", "Custom Branding", "Feedback & Approvals Workflow", "Unlimited Clients", "Multifactor Authentication", "Mobile Apps", "Co-editing", "Sync", "Desktop Widget", "Activity Logs", "Versioning", "FTP", "Third Party Integrations", "E-signature Integration", "Mobile Editing", "Email Plugin", "Industry-specific Workflows", "Encrypted Email", "Device Security", "User Management Tool", "Full Text Search", "File Check-In/Check-Out", "Request List", "Archiving", "Folder Q&A", "Folder Templates", "File Drop", "Folder Invitations"]
+		}, {
+			"name": "Virtual Data Room",
+			"tagline": "Advanced security, sharing and control for sensitive data.",
+			"price": "$295",
+			"pricing_model": "per month billed annually ($395/month if billed monthly)",
+			"num_users": "Call for Consultation",
+			"num_projects": "Unlimited Client Users",
+			"storage": "Unlimited",
+			"max_file_size": "10GB",
+			"features": ["24/7 Customer Support", "Custom Branding", "Feedback & Approvals Workflow", "Unlimited Clients", "Multifactor Authentication", "Mobile Apps", "Co-editing", "Sync", "Desktop Widget", "Activity Logs", "Versioning", "FTP", "Third Party Integrations", "E-signature Integration", "Mobile Editing", "Email Plugin", "Device Security", "User Management Tool", "Full Text Search", "File Check-In/Check-Out", "Folder Q&A", "Folder Templates", "File Drop", "Folder Invitations", "Dynamic Watermarking", "View Only", "Click Trails"]
+		}],
+		"pricing_plan_bullets": [{
+			"name": "24/7 Customer Support",
+			"definition": "No matter your account size or plan, ShareFile offers free support and training for you, your team, even your clients. Our U.S.-based Customer Care team is available 24/7 by phone or email to answer any questions or fix any issues that may arise. Or if you’d just like to search online, our Knowledge Base and Community Forum offer hundreds of articles, videos and ongoing conversations to help you get answers faster.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Branding",
+			"definition": "We brand your ShareFile account to match the look and feel of your company’s logo, website and colors. That way, it shows off your brand, not ours — everything from the login page to the headers, colors and other details of your account can match your website or logo.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Feedback & Approvals Workflow",
+			"definition": "Simplify collaboration with a secure way to collect feedback and get approvals with no confusing email threads. Manage notifications and reminders, even set deadlines—all in one place.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Unlimited Client Users",
+			"definition": "Need to send or give access to files to people — clients, vendors, customers and others — outside your company? Wish those same people could access and use certain features in your account? With ShareFile, you can share files and folders with as many people as you want at no additional charge.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Multifactor Authentication",
+			"definition": "Multi-Factor Authentication uses your phone or another device to provide an extra layer of security for new device logins. Available for both client and employee users, this feature sends a verification code via text message (SMS) or voice call after you enter your password to ensure that only you can access your account, even if your password has been compromised.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Mobile Apps",
+			"definition": "With ShareFile Mobile Apps — available for all iOS, Android, Windows and Blackberry devices — you get seamless access to all the files, folders and features of your account on the go. Whether you need to browse, send, request files or set folder permissions, you can do so right on your smartphone or tablet. You can even edit Microsoft Office files or annotate PDFs.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Co-editing",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Sync",
+			"definition": "A native application available for both Mac and Windows, ShareFile Sync automatically synchronizes a local folder on your computer with folders in your ShareFile account in real time. It’s the easiest way to keep files instantly up to date on all of your devices.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Desktop Widget",
+			"definition": "Why bother opening a Web browser for simple tasks? ShareFile Desktop App lets you upload, download, send and request files right from your desktop. Focused on speed and convenience, this app is a flexible way to manage your ShareFile account with drag-and-drop functionality, keyboard shortcut support, native interactions and adjustable windows.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Activity Logs",
+			"definition": "Offering a simple way to track folder-by-folder activity, these reports are easy to read and export. You can see exactly who has done what and when — and you can even break out information by folders or their subfolders.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Versioning",
+			"definition": "Have lots of people collaborating on a single file and worried that changes might get lost? File versioning lets you keep and view every single previous version of a file when a new one is uploaded with the same name. With this feature, any files with the same name automatically save as the latest version, with the option to view earlier versions.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "FTP",
+			"definition": "ShareFile is compatible with most well-known FTP clients, enabling you to connect your ShareFile account directly from an FTP program. It’s a great way for you and your clients to upload or download files to or from a secure location while using your existing FTP programs.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Third Party Integrations",
+			"definition": "ShareFile integrates with many of the tools you already use — including Microsoft Office 365, Basepin, DocAuto, FotoIN, Gmail, Trumpet, BidPlanroom, Redtail, Fujitsu ScanSnap and more.",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "E-Signature Integration",
+			"definition": "Citrix RightSignature seamlessly integrates with ShareFile. For an additional fee, you can send files stored in your ShareFile account to others for secure, legally binding electronic signature. With RightSignature, you pick where recipients need to sign or initial, and the simple, easy-to-use interface ensures that documents get every field filled completely. Once signed, documents are saved automatically back to ShareFile, so you never have to follow up with clients or chase down documents again.",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Mobile editing",
+			"definition": "Within the ShareFile Mobile App, you can edit any Microsoft Office document, spreadsheet or presentation and annotate any PDF — right on your smartphone or tablet. You can even make files available offline for editing when you don’t have an Internet connection and save them with all of the changes once you do. It’s on-the-go work that works.",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Email Plugin",
+			"definition": "The ShareFile Plugin for Microsoft Outlook allows you to insert links to files, upload and send new files, and request files directly from Microsoft Outlook email messages. You can have ShareFile convert all attachments (or just attachments over a certain size) to ShareFile links to avoid email bounce back or annoying file-size restrictions.",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Industry-specific Workflows",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Encrypted Email",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Device Security",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "User Management Tool",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "no"
+			}]
+		}, {
+			"name": "Full Text Search",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "no"
+			}, {
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "File Check-In/Check-Out",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Request List",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Archiving",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Folder Q&A",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Folder Templates",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "File Drop",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Folder Invitations",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dynamic Watermarking",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "View Only",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Click Trails",
+			"definition": "Co-edit and co-author files directly in your browser any time and on any device with convenient Microsoft Office 365 integration (Office 365 license required).",
+			"value": [{
+				"name": "Personal",
+				"value": "yes"
+			}, {
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "iDeals",
+		"last_update": "March 2018",
+		"urlSlug": "iDeals",
+		"logoURL": "images/iDeals-Virtual-Data-Room.jpg",
+		"anchor": "ideals",
+		"pubSite": "https://www.idealsvdr.com/virtual-data-room-pricing/",
+		"type": "Virtual Data Room",
+		"company": "iDeals",
+		"tagline": "Share and collaborate on business-critical documents in a secure way.",
+		"usecases": ["Board Communications", "Mergers & Acquisitions", "Online Due Diligence"],
+		"industries": ["Any Inudstry"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "62",
+		"popularity": 310,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "36",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "5",
+			"num_ratings": "26"
+		}],
+		"price": "Starting at $150 per month",
+		"plans": [{
+			"name": "Basic",
+			"tagline": "Simple secure file sharing and data room for start-ups and one-time projects.",
+			"price": "$150 / month",
+			"pricing_model": "$120 / month if billed quarterly, $100 / month if billed annually",
+			"num_users": "Unlimited Users & up to 5 Administrators",
+			"num_projects": "1 Project ($100 per Month per Additional Project",
+			"storage": "1GB",
+			"max_file_size": ""
+		}, {
+			"name": "Professional",
+			"tagline": "Advanced solution with unlimited support, branding and customization.",
+			"price": "Pay As You Go",
+			"pricing_model": "fixed fee or billed monthly / quarterly / annually",
+			"num_users": "Unlimited Users & up to 5 Administrators",
+			"num_projects": "Flexible",
+			"storage": "Flexible Cloud Storage - charged by GBs or pages",
+			"max_file_size": ""
+		}, {
+			"name": "Enterprise",
+			"tagline": "On-premise deployment with integrations, premier support and compliance.",
+			"price": "Fixed Budget",
+			"pricing_model": "billed annually",
+			"num_users": "Per-User Licensing or Unlimited Users Licensing",
+			"num_projects": "Flexible",
+			"storage": "On-Premise Deployment or Unlimited Cloud Storage",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "All Major File Formats",
+			"definition": "All MS Office document formats, as well as pdf, txt, pub, rtf, htm, html, mht, jpg, jpeg, jpe, gif, bmp, jpg, tif, tiff, wmf, and flv",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Drag & Drop Upload",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Desktop Upload & Sync",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Bulk Operations",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Automatic Index Numbering",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "File Versioning",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "File Merging",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Granular Document Permissions",
+			"definition": "Admins have total control over document access. Choose from 8+ permission levels for each user and each file or folder. Restrict unauthorized downloading, saving, or printing.",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "8 Levels of Document Access",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "View-Only Access",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "DRM & Remote Shred",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dynamic Watermarks",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Secure Fence View",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Single or Bulk User Invitation",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Roles & Groups Management",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Granular Access Control",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Access Expiration by Time",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Track User Activity",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Detailed Autit Trail",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Graphic Reports",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Summary Reports",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Export to Excel",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "No Plugins",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Multilingual Access",
+			"value": [{
+				"name": "Basic",
+				"value": "9 Languages"
+			}, {
+				"name": "9 Languages",
+				"value": "yes"
+			}, {
+				"name": "9 Languages",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Desktop Sync",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Mobile Access",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Mobile Apps for iOS & Android",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Scroll-Through Document View",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Secure Spreadsheet Viewer",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Text Search",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Questions & Answers",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Advanced Workflows"
+			}, {
+				"name": "Enterprise",
+				"value": "Advanced Workflows"
+			}]
+		}, {
+			"name": "Email Alerts",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Notes & Comments",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Link Sharing",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Data Hosting Locations",
+			"value": [{
+				"name": "iDeals Data Centers in 9 Locations",
+				"value": "yes"
+			}, {
+				"name": "iDeals Data Centers in 9 Locations",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "Clients' Data Centers, iDeals Data Centers in 9 Locations"
+			}]
+		}, {
+			"name": "99.95% Uptime",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "Guaranteed in SLA"
+			}]
+		}, {
+			"name": "ISO 27001 Compliance",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "SOC 2 Compliance",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Complex Password Policies",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Two-Factor Authentication",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Virus Scanning",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Live Trainings with Expert",
+			"value": [{
+				"name": "Basic",
+				"value": "1 Hour Included"
+			}, {
+				"name": "Unlimited",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Help Center",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Support",
+			"value": [{
+				"name": "Basic",
+				"value": "Email"
+			}, {
+				"name": "Professional",
+				"value": "24/7 Email & Phone"
+			}, {
+				"name": "Enterprise",
+				"value": "Premier 24/7 Email & Phone"
+			}]
+		}, {
+			"name": "Supported Languages",
+			"value": [{
+				"name": "Basic",
+				"value": "English"
+			}, {
+				"name": "Professional",
+				"value": "9 Languages"
+			}, {
+				"name": "Enterprise",
+				"value": "9 Languages"
+			}]
+		}, {
+			"name": "Dedicated Project Manager",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Professional Services",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "USB Flash Drive Archive w/ Additional Fee",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}]
+		}, {
+			"name": "Custom Branding",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Login Page",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Invitation Letter",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Terms of Access",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Watermarks",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Additional File Formats",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Optical Character Recognition",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Multilingual Document Index",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Access Restriction by IP",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Project Index Portfolio by Industry",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Index Import from Excel, Word, etc.",
+			"value": [{
+				"name": "Basic",
+				"value": "Additional Fee"
+			}, {
+				"name": "Professional",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Deployment Options",
+			"value": [{
+				"name": "Basic",
+				"value": "Cloud"
+			}, {
+				"name": "Professional",
+				"value": "Cloud & Hybrid"
+			}, {
+				"name": "Enterprise",
+				"value": "On-Premise, Cloud, & Hybrid"
+			}]
+		}, {
+			"name": "White Label & Custom Domain",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Active Directory & Single Sign On",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Customer-Managed Encryption Key",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "API Integrations",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Workflows & Features",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Professional",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["SSAE16 Certified Datacenter", "SOC 2 Compliance", "ISO 27001 Compliance", "Bank-level Encryption", "Multiple Global Storage Locations", "Disaster Recovery Centers in US & Europe", "SSL/TLS Encryption during Transfer", "AES 256-bit D42:H55 Encryption during Storage", "Generate Sharable Secure Upload Link", "Dynamic Watermarking", "Encrypted Email", "Complex Passcode Protection", "Two-Factor Authentication"],
+			"doc_management": ["All Major File Formats", "Drag & Drop Upload", "Bulk Operations", "Automatic Index Numbering", "File Merging", "Data Expiration Options", "No File Size Restrictions", "Automatic File Syncing", "Desktop Upload & Sync", "File Versioning", "File Archives", "Folder Templates", "Secure FTP"],
+			"user_management": ["8 Levels of Document Access", "Access Restriction by IP", "Download Alerts", "DRM & Remote Shred", "View Only Permissions", "Granular Document Permissions", "Device Lock", "Whitelist/Blacklist Users", "Restrict Access by DLP Classification", "Secure Fence View", "Access Expiration by Time", "Roles & Groups Management", "Single or Bulk User Invitation"],
+			"collaboration": ["Folder Q&A", "Email Alerts", "Notes & Comments", "Link Sharing"],
+			"accessibility": ["99.95% Uptime", "Workflow Automation", "Full Text Search", "Mobile Access", "Mobile Apps for iOS & Android", "Scroll-Through Document Viewer", "Secure Spreadsheet Viewer", "Multilingual Access", "Desktop Sync", "No Plugins", "Multilingual Document Index"],
+			"client_management": ["Multiple Projects"],
+			"integration": ["Microsoft Outlook", "Gmail", "Excel & Microsoft Office"],
+			"customization": ["Custom Branding", "Custom Login Page", "Custom Invitation Letter", "Custom Terms of Access", "Custom Watermarks"],
+			"reporting": ["Activity Reports", "Click Trails", "Real Time Activity Tracking", "Custom Reports for Compliance Needs", "Export to Excel", "Graphic Reports"],
+			"support": ["Live Training with Expert", "Help Center", "Support Languages", "24/7 Email & Phone Support", "Dedicated Project Managers", "USB Flash Drive Archive"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		}
+	}, {
+		"name": "docurex",
+		"last_update": "March 2018",
+		"urlSlug": "docurex",
+		"logoURL": "images/docurex-virtual-data-room.jpg",
+		"anchor": "docurex",
+		"pubSite": "http://www.docurex.com/",
+		"type": "Virtual Data Room",
+		"company": "docurex",
+		"tagline": "the safe data room",
+		"usecases": ["Real Estate Management", "Mergers & Acquisitions", "Board Communication", "Insolvency Protection Proceedings", "Prevent Industrial Espionage", "Data Theft"],
+		"industries": ["Any Industry"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "1",
+		"popularity": 5,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Secure Document Viewer", "Automatic Watermarking", "Secure Data Centers Located in Germany", "Redundant Servers", "Firewall Protection", "Physical Fire Protection", "Document Encryption", "Two-Factor Authentication"],
+			"doc_management": ["Regular Data Room Backups", "Document Reconciliation & Merging", "Tagging & Searching", "Export Data Room", "Automatic Conversion to PDF", "Duplicate Folders", "Full Text Search", "Bulk Download"],
+			"user_management": ["Activity Tracking Settings by User", "User Permission Settings", "Set IP Restrictions", "Prevent Printing & Saving"],
+			"collaboration": ["Q&A Module"],
+			"accessibility": ["Web-based Platform", "Compatible with Any Browser", "Works with Any Device", "No Installation Required", "No Training Necessary", "Multiple Languages"],
+			"client_management": ["No Client Management Features Specified"],
+			"integration": ["SAP"],
+			"customization": ["Customizable Watermarking", "Custom Branding"],
+			"reporting": ["Activity Log", "Track Unauthorized Transmission of Documents"],
+			"support": ["Email & Phone Support", "24/7 Support", "Assisted Setup & Data Migration"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Consultation Required",
+		"plans": [{
+			"name": "Standard",
+			"tagline": "",
+			"price": "Consultation Required",
+			"pricing_model": "Subscription and One-Time Purchase Licenses Available",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Enterprise",
+			"tagline": "",
+			"price": "Constulation Required",
+			"pricing_model": "Subscription and One-Time Purchase Licenses Available",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Premium",
+			"tagline": "",
+			"price": "Consultation Required",
+			"pricing_model": "Subscription and One-Time Purchase Licenses Available",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Unlimited"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}, {
+				"name": "Premium",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Included Storage",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "5GB - more available for an extra charge"
+			}, {
+				"name": "Enterprise",
+				"value": "50GB - more available for an extra charge"
+			}, {
+				"name": "Premium",
+				"value": "100GB - more available for an extra charge"
+			}]
+		}, {
+			"name": "Monthly Hosting",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "By Request"
+			}, {
+				"name": "Enterprise",
+				"value": "By Request"
+			}, {
+				"name": "Premium",
+				"value": "By Request"
+			}]
+		}, {
+			"name": "Document Exchange",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Multilingual",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Intuitive User Interface",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Authorization Assignment",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Viewer (Office to PDF)",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Syncronization of Folder Structure & Data",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Comparison",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Q&A Module",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Individual Disclaimer",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Scan-in Interface",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Text Indexing",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Checkout while Editing",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Data Export",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Corporate Identity",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Initial Scan-In of Documents",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Create a Separate Data Room from Current Database",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "No"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "Additional Fee"
+			}]
+		}, {
+			"name": "Interface between ERP & CMS Systems",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "No"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "Additional Fee"
+			}]
+		}, {
+			"name": "Telephone & Email Support (Mon-Fri 8-6PM)",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "User/Permission Management by docurex team",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "24/7 Support",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "no"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "Additional Fee"
+			}]
+		}, {
+			"name": "Antivirus",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Backup",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "User Management",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Encrypted Data Transfer",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Hosting According to German Data Protection Act",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Restricted Access for User Accounts",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Additional Security for Document Viewer",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Encrypted Data Transfer",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Access Logging",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Automatically Generated Watermarks",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Customizable Watermarks",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "IP Demarcation",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "Additional Fee"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Two-Factor Authentication on First Login",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "no"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Two-Factor Authentication on Every Login",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "no"
+			}, {
+				"name": "Enterprise",
+				"value": "Additional Fee"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "High Performance Servers",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Servers Located in Secure German Data Centers",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full System Redundancy",
+			"definition": "",
+			"value": [{
+				"name": "Standard",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "Onehub",
+		"last_update": "March 2018",
+		"urlSlug": "Onehub",
+		"logoURL": "images/Onehub-virtual-data-rooms.jpg",
+		"anchor": "onehub",
+		"pubSite": "https://www.onehub.com/",
+		"type": "Secure Online Storage & File Sharing",
+		"company": "Onehub",
+		"tagline": "A better way to securely store and share your business files in the cloud.",
+		"usecases": ["Secure Enterprise File Storage & Document Sharing"],
+		"industries": ["Energy", "Entertainment", "Financial", "Healthcare", "Legal", "Manufacturing", "Marketing", "Real Estate", "Technology"],
+		"avg_review_rating": "4.4",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "4",
+		"popularity": 17.6,
+		"rank": 4,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "3.8",
+			"num_ratings": "2",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "cap",
+			"avg_rating": "5",
+			"num_ratings": "1"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Audit Trails", "Object Level Security", "Document Watermarks", "Two Factor Authentication", "Require Complex Passwords"],
+			"doc_management": ["Drag & Drop Uploading", "Full Text Search", "FTP Gateway", "Folder-Based Organization Structure", "Version Control", "Move/Copy Files", "Archive Downloads", "Automatic File Deletion Timeframes"],
+			"user_management": ["Send User Invitations", "Grant/Revoke Access", "Modify Roles", "Secure Folders/Links", "Password Protection", "Document Access Expiration", "Folder/File Level Invitations", "Granular Access Permissions", "Limit User Download/Print Capabilities", "Role Previews"],
+			"collaboration": ["File/Folder Comments", "Workspace Messages", "Assign Workflow Tasks", "Custom Session Timeouts"],
+			"accessibility": ["Online File Viewer", "Multiple File Viewer Options", "Most File Types Supported"],
+			"client_management": ["Stealth Mode - Blind Users from Eachother"],
+			"integration": ["Google Drive"],
+			"customization": ["Define Custom Access Agreements", "Customizable Workspace Dashboards", "Custom Branding, Logos, & Colors", "Custom Workspace Domains", "Branded Emails & Sign In Pages", "White Label Support", "Pin Favorites"],
+			"reporting": ["User Activity Notifications", "Activity Logs"],
+			"support": ["24/7 Phone Support", "Dedicated Support Staff", "Customized Training"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Starting at $29.95 per month",
+		"plans": [{
+			"name": "Team",
+			"tagline": "Enterprise-grade security designed for smaller teams.",
+			"price": "$29.95 per month",
+			"pricing_model": "15% off when committing to 1 year of service",
+			"num_users": "3 Paid Users Included ($10 per additional paid user per month)",
+			"num_projects": "Unlimited Workspaces",
+			"storage": "1TB of Storage",
+			"max_file_size": "5GB"
+		}, {
+			"name": "Business",
+			"tagline": "Onehub's most popular plan with additional security features.",
+			"price": "$99.95 per month",
+			"pricing_model": "15% off when committing to 1 year of service",
+			"num_users": "5 Paid Users Included ($15 per additional paid user per month",
+			"num_projects": "Unlimited Workspaces",
+			"storage": "Unlimited",
+			"max_file_size": "5GB"
+		}, {
+			"name": "Enterprise",
+			"tagline": "Premium feature set for the ultimate business file sharing experience.",
+			"price": "Custom Pricing",
+			"pricing_model": "Contact for a quote",
+			"num_users": "Unlimited",
+			"num_projects": "Unlimited Workspaces",
+			"storage": "Unlimited",
+			"max_file_size": "5GB"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"value": [{
+				"name": "Team",
+				"value": "3 Paid Users Included ($10 per additional paid user per month"
+			}, {
+				"name": "Business",
+				"value": "5 Paid Users Included ($15 per additional paid user per month"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited Users (no additional cost)"
+			}]
+		}, {
+			"name": "Number of Workspaces",
+			"value": [{
+				"name": "Team",
+				"value": "Unlimited Workspaces"
+			}, {
+				"name": "Business",
+				"value": "Unlimited Workspaces"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited Workspaces"
+			}]
+		}, {
+			"name": "Storage",
+			"value": [{
+				"name": "Team",
+				"value": "1TB"
+			}, {
+				"name": "Business",
+				"value": "Unlimited"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "White Label & Custom Domain",
+			"value": [{
+				"name": "Team",
+				"value": "$100 per month add-on"
+			}, {
+				"name": "Business",
+				"value": "100 per month add-on"
+			}, {
+				"name": "Enterprise",
+				"value": "No Additional Cost"
+			}]
+		}, {
+			"name": "Enterprise Grade Security",
+			"value": [{
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Branding",
+			"value": [{
+				"name": "Team",
+				"value": "yes"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Enforce Two-Factor Authentication",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Session Timeouts",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Data Room Security",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Watermarks",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Audit Trails",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "FTP Support",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Text Search",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "24/7 Phone Support",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dedicated Support Staff",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "no"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Customized Training",
+			"value": [{
+				"name": "Team",
+				"value": "no"
+			}, {
+				"name": "Business",
+				"value": "no"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "iDGARD",
+		"last_update": "March 2018",
+		"urlSlug": "iDGARD",
+		"logoURL": "images/iDGARD-virtual-data-room.jpg",
+		"anchor": "idgard",
+		"pubSite": "http://idgard.de/",
+		"type": "Security for Online Communication & Teamwork",
+		"company": "Uniscon",
+		"tagline": "Simple & Secure Communication via patented Sealed Cloud",
+		"usecases": ["Secure Mobile Office", "Safe Alternative to FTP & File Sharing Services", "Teamwork & Data Rooms", "Secured Attachments"],
+		"industries": ["Healthcare", "Finance", "Legal"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "2",
+		"popularity": 10,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "2",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Sealed Cloud", "Automated Key Management", "No Provider Access to Data", "Watermarking", "View-Only Files"],
+			"doc_management": ["Auto-sync Prevention on Devices for iCloud, Drive, Azure, etc."],
+			"user_management": ["Monitor Access, Deletion, Uploads, Downloads"],
+			"collaboration": ["Tap-proof Chatting"],
+			"accessibility": ["Works on All Web Browsers", "No Extra Software Necessary", "Apps/Add-Ins Available for Browsers & Microsoft Outlook", "Built-in Resource Planning", "Apps for Android, iOS", "5 Lanugages: English, German, French, Italian, Spanish"],
+			"client_management": ["No Client Management Features Listed"],
+			"integration": ["Network Drive Integration per WebDAV"],
+			"customization": ["No Customization Features Listed"],
+			"reporting": ["Audit Trail per Box", "Notifications on Multi-file Download"],
+			"support": ["Phone & Email Support", "Hotline Support"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Starting at $9 per month",
+		"plans": [{
+			"name": "IDGARDmini",
+			"tagline": "for micro businesses",
+			"price": "€8,95 per month",
+			"pricing_model": "added charges for additional user licenses",
+			"num_users": "1 Full License, 5 Guest Licenses",
+			"storage": "20GB, $1.05 per month per additional 10GB",
+			"max_file_size": "500MB"
+		}, {
+			"name": "Starter Package",
+			"tagline": "for businesses with up to 50 employees",
+			"price": "€49,95 per month",
+			"pricing_model": "added charges for additional user licenses",
+			"num_users": "5 Full Licenses, 25 Guest Licenses",
+			"storage": "100GB, $1.05 per month per additional 10GB",
+			"max_file_size": "2GB"
+		}, {
+			"name": "Premium Package",
+			"tagline": "meets highest demands",
+			"price": "Consultation Required",
+			"pricing_model": "added charges for additional user licenses",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "1 Full License, 5 Guest Licenses"
+			}, {
+				"name": "Starter Package",
+				"value": "5 Full Licenses, 25 Guest Licenses"
+			}, {
+				"name": "Premium Package",
+				"value": "Unlimited - with floating licenses for occasional users"
+			}]
+		}, {
+			"name": "Storage Space",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "20GB"
+			}, {
+				"name": "Starter Package",
+				"value": "100GB"
+			}, {
+				"name": "Premium Package",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Maximum File Size",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "500MB"
+			}, {
+				"name": "Starter Package",
+				"value": "2GB"
+			}, {
+				"name": "Premium Package",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Email Support",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "Standard"
+			}, {
+				"name": "Starter Package",
+				"value": "Standard"
+			}, {
+				"name": "Premium Package",
+				"value": "Premium"
+			}]
+		}, {
+			"name": "Phone Support",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "yes"
+			}, {
+				"name": "Premium Package",
+				"value": "Premium"
+			}]
+		}, {
+			"name": "Premium Hotline Support",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "no"
+			}, {
+				"name": "Premium Package",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Management via Current LDAP/Active Directory",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "no"
+			}, {
+				"name": "Premium Package",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Single Sign On",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "no"
+			}, {
+				"name": "Premium Package",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Web Services APIs for Integration to Current Processes",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "no"
+			}, {
+				"name": "Premium Package",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Online Training",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "no"
+			}, {
+				"name": "Starter Package",
+				"value": "no"
+			}, {
+				"name": "Premium Package",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Terminable Monthly",
+			"value": [{
+				"name": "IDGARDmini",
+				"value": "yes"
+			}, {
+				"name": "Starter Package",
+				"value": "yes"
+			}, {
+				"name": "Premium Package",
+				"value": "no"
+			}]
+		}]
+	}, {
+		"name": "Firmex",
+		"last_update": "March 2018",
+		"urlSlug": "Firmex",
+		"logoURL": "images/Firmex-virtual-data-rooms.jpg",
+		"anchor": "firmex",
+		"pubSite": "https://www.firmex.com/get-started/",
+		"type": "Virtual Data Room",
+		"company": "Firmex Inc.",
+		"tagline": "Get your deal live within hours, not days",
+		"usecases": ["Fundraising", "Corporate Litigation", "Document Collaboration", "Project Management", "Client Communications"],
+		"industries": ["Legal", "Investment Banking", "Pharmaceutical", "Corporate", "Energy", "Funds"],
+		"avg_review_rating": "4.8",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "23",
+		"popularity": 110.4,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "4.9",
+			"num_ratings": "18",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "cap",
+			"avg_rating": "4.5",
+			"num_ratings": "5"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["256-Bit Encryption", "Dynamic Watermarks", "HIPAA Compliant", "SAS70 Type II Compliant", "SOC 2 Compliant", "CSAE3416", "Two Factor Authentication", "Document Expiration", "256-bit AES SSL/TLS Encryption", "Industry Leading Antivirus Software", "Multiple Data Centers for Distaster Management", "Multiple Firewalls", "Physical Data Center Protection", "On-going Risk Assessment"],
+			"doc_management": ["Bulk Uploads", "Full Text Search", "Upload via Email"],
+			"user_management": ["Document Level Permissions", "Set Duration of Accessibility", "Set Access Methods", "Disable Saving, Printing, Copying, & Sharing", "Revoke Document Access Remotely", "Lock Documents to IP & Computer", "View As"],
+			"collaboration": ["Question & Answer"],
+			"accessibility": ["Multilingual Interface"],
+			"client_management": [],
+			"integration": [],
+			"customization": ["Custom Branding", "API Integration"],
+			"reporting": ["Track Document Access", "Track Logins", "Administrator Dashboard", "Project Archiving"],
+			"support": ["Quick & Customized Setup", "Orientation", "Training for Teams", "Consistent Point of Contact", "Video Tutorials", "24/7/365", "Project Consultation", "Complex Configuration Assistance", "Bulk File Conversion Assistance", "Bulk Upload & Setup Assistance", "Specialized Onsite Training"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"Watermarking": "yes",
+			"Two Factor Authentication": "yes",
+			"Full Text Search": "yes",
+			"Version Control": "yes",
+			"Bulk Uploads": "yes",
+			"Document Level Permissions": "yes",
+			"ISO 27001 Compliance": "yes",
+			"SOC 2 Compliance": "yes",
+			"HIPAA Compliance": "yes"
+		},
+		"price": "Consultation Required",
+		"plans": [{
+			"name": "Single Use Data Room",
+			"tagline": "Run a one-time deal or project. Easily upgraded at anytime.",
+			"price": "One-Time Fee",
+			"pricing_model": "no cost surprises",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Multi-Use Subscription",
+			"tagline": "Manage multiple projects. Integrates with enterprise solutions.",
+			"price": "Annual Fixed Fee",
+			"pricing_model": "no cost surprises",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "SSAE 16 Type II Security",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Branding",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Q&A Process Management",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Number of Projects",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "One Project"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "Unlimited Projects"
+			}]
+		}, {
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "Unlimited"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Number of Uploads",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "Unlimited"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Unlimited 24/7/365 Support",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Complete Data Room Setup",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Professional Services",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "iPad Optimized",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Drag & Drop Uploads",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Bulk User Import",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Single Sign On",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "no"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Automatic File Distribution",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "no"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}, {
+			"name": "API Integration",
+			"definition": "",
+			"value": [{
+				"name": "Single Use Data Room",
+				"value": "no"
+			}, {
+				"name": "Multi-Use Subscription",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "Sterling VDR",
+		"last_update": "March 2018",
+		"urlSlug": "Sterling-VDR",
+		"logoURL": "images/Sterling-VDR-virtual-data-room.jpg",
+		"anchor": "sterling",
+		"pubSite": "https://sterlingdatarooms.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "Sterling Data Rooms",
+		"tagline": "The virtual data room for easier due dilligence",
+		"usecases": ["M&A Due Diligence", "Pre-IPO Due Diligence", "Fundraising", "Document Archiving", "Virtual Board Rooms"],
+		"industries": ["Any Industry"],
+		"avg_review_rating": "0",
+		"avg_review_img": "0-star.png",
+		"num_reviews": "0",
+		"popularity": 0,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "0",
+			"num_ratings": "0",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "0",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}],
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["256-Bit Encryption", "ISO 27001 Data Security", "SAS70 Type II Data Centre"],
+			"doc_management": ["One-Click Upload", "Drag and Drop Uploads", "Full Text Search", "Multi-lingual Search"],
+			"user_management": ["Advanced Permissions", "Print, Save, View Permissions"],
+			"collaboration": ["Question and Answer Tool"],
+			"accessibility": ["No Accessibility Features Listed"],
+			"client_management": ["No Client Management Features Listed"],
+			"integration": ["No Client Management Features Listed"],
+			"customization": ["Point and Click Custom Reporting"],
+			"reporting": ["Real Time Intelligence on User Activity"],
+			"support": ["24/7/365 Global Customer Service", "Multi-lingual Support"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"price": "Consultation Required",
+		"plans": [{
+			"name": "Sterling VDR Pricing Summary",
+			"tagline": " Cutting-edge technology and world-class security",
+			"price": "Custom Pricing by Requirements",
+			"pricing_model": "pricing depends on number of users, workspaces, and storage requirements",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Workspaces",
+			"definition": "",
+			"value": [{
+				"name": "Sterling VDR Pricing Summary",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Sterling VDR Pricing Summary",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Sterling VDR Pricing Summary",
+				"value": "Unlimited"
+			}]
+		}]
+	}, {
+		"name": "IntraLinks",
+		"last_update": "March 2018",
+		"urlSlug": "IntraLinks",
+		"logoURL": "images/IntraLinks-Dealspace-virtual-data-room.jpg",
+		"anchor": "intralinks",
+		"pubSite": "https://www.intralinks.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "Intralinks, Inc.",
+		"tagline": "Securing Business Beyond Boundaries",
+		"usecases": ["Capital Raising", "Client and Investor Communication", "Clinical Trial Remote Monitoring", "Deal Lifecycle", "Deal Sourcing and Marketing", "Debt Financing", "Investor Reporting", "Legal Operations", "M&A Due Diligence", "Partner and Vendor Collaboration", "Post-Merger Integration", "Regulatory Reporting", "Regulatory Risk Management", "Safety Document Distribution", "Syndicated Lending"],
+		"industries": ["Alternative Investments", "Banking and Securities", "Energy", "Healthcare", "Insurance", "Legal and Professional Services", "Life Sciences", "Manufacturing"],
+		"avg_review_rating": "4.3",
+		"avg_review_img": "4-star.png",
+		"num_reviews": "4",
+		"popularity": 17,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "4",
+			"num_ratings": "3",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Two-Factor Authentication", "256-Bit SSL Encryption", "Data Backup", "Document Expiry", "Dynamic Watermarks", "ISO 27001 Certified", "SOC 2 Certified", "SSAE 16 Certified"],
+			"doc_management": ["Version Tracking", "Archiving", "Content Templates", "Workflows", "Folder Structures", "Desktop Bulk Upload & Configuration Tool"],
+			"user_management": ["Dynamic File/Folder/User/Workspace Permission Management", "16 User Roles with Dynamic Permission Management"],
+			"collaboration": ["Collaborative Workspaces", "Task Assignment"],
+			"accessibility": ["In-Line Viewing, Editing, & Annotation", "Accessible from Any Browser, Desktop, or Mobile Device"],
+			"client_management": ["Workspaces for Clients", "Web & Mobile Interface"],
+			"integration": ["Microsoft Office 365", "Intralinks API", "Developer Portal"],
+			"customization": ["Custom Metadata", "Configurable Dashboards", "Metadata-Driven Workflows"],
+			"reporting": ["Granular User Activity Reporting"],
+			"support": ["24/7 Multilingual Support", "Workflow Management Services"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "Intralinks VIA Pro Edition",
+			"tagline": "Accelerate collaboration with simple and intuitive Workspaces for secure file sync, content sharing and team collaboration",
+			"price": "Consultation Required",
+			"pricing_model": "Consultation Required",
+			"num_users": "",
+			"storage": "",
+			"max_file_size": ""
+		}, {
+			"name": "Intralinks VIA Elite Edition",
+			"tagline": "Enable large-scale content repositories, complex collaboration, case management and document-centric workflows",
+			"price": "Consultation Required",
+			"pricing_model": "",
+			"num_users": "",
+			"storage": "",
+			"max_file_size": ""
+		}, {
+			"name": "Intralinks Virtual Data Room Edition",
+			"tagline": "Support high-stakes transactions, partnership negotiations and strategic initiatives",
+			"price": "Consultation Required",
+			"pricing_model": "",
+			"num_users": "",
+			"storage": "",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "User-Defined Collaborative Workspaces",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "In-Line Viewing, Editing, & Annotation",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Secure Access from Web Browsers, Desktop Apps, & Mobile Devices",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Version Tracking & Archiving",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Seamless Integration with Microsoft Office 365 on Web & Desktop",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Available 24/7 Multilingual Support",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "yes"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Flexible Workspaces for Large-Scale Users, Content, and Business Processes",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dynamic File/Folder/User/Workspace Permission Management",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Meta Data and Configurable Dashboard",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Tasking/Notifications & Meta Data Driven Workflows",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Granular User Activity Reporting",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Pre-Configured Solutions, Including Content Templates, Workflows, Folder Structures, and Services",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Intralinks APIs and Developer Portal",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "yes"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Web and Mobile Interface with a Desktop Bulk Upload and Configuration Tool",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "16 User Roles with Dynamic File/Folder/User/Workspace Permission Management",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Full Text Indexing & Search with Optical Character Recognition",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Question-and-Answer Workflow for Managing Deals with Multiple Parties",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Direct Business Process Support for Both Internal and External Users",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dedicated Customer Service Managers",
+			"definition": "",
+			"value": [{
+				"name": "VIA Pro Edition",
+				"value": "no"
+			}, {
+				"name": "VIA Elite Edition",
+				"value": "no"
+			}, {
+				"name": "Virtual Data Room Edition",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "SmartRoom",
+		"last_update": "March 2018",
+		"urlSlug": "SmartRoom",
+		"logoURL": "images/SmartRoom-virtual-data-rooms.jpg",
+		"anchor": "smartroom",
+		"pubSite": "http://smartroom.com/",
+		"type": "Virtual Data Room",
+		"company": "BMC Group, Inc.",
+		"tagline": "Reinventing deal management takes a different type of smart. Big Deal Smart.",
+		"usecases": ["Corporate Restructuring", "Bankruptcy Asset Sales", "Litigation", "Corporate Development", "Board Reporting", "Audits", "Regulatory Compliance", "Post-Merger Integration"],
+		"industries": ["Financial Services", "Life Sciences", "Manufacturing", "Aerospace & Defense", "Alternative Investments"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "3",
+		"popularity": 15,
+		"rank": 5,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "3",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}],
+		"price": "Prices starting at $395 per month",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Segregated Databases by Data Room", "SAS-70 Type II Certified", "128-bit Encryption", "Local Data Mirroring", "Remote Data Redundancy", "1024-bit Encryption on Document Loading/Viewing", "Set Docs for 'Screen Viewing Only' to Eliminate Hard Drive Caching", "Regular Risk Assessment & Testing", "Password Aging", "Session Time Limits", "Two-Factor Authentication"],
+			"doc_management": ["Drag & Drop Interface", "Document Indexing", "Real Time Document Editing"],
+			"user_management": ["Granular Security Rights"],
+			"collaboration": ["Real-Time Access to Documents & Data Room"],
+			"accessibility": ["No Additional Hardware or Software Required", "Secure Document Viewer", "9 Interface Languages: English, Spanish, French, German, Japanese, Korean, Russian, Chinese (Simplified), Portuguese (Brazilian)"],
+			"client_management": ["No Client Management Features Listed"],
+			"integration": ["No Integrations Listed"],
+			"customization": ["Branded Website", "Customizable Data Room Dashboard", "Customize Data Room Settings"],
+			"reporting": ["Detail Logs", "Event Tracking"],
+			"support": ["Dedicated Project Team", "Global 24/7 Support"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "SmartRoom Pricing",
+			"tagline": "Fast, Affordable Virtual Data Room",
+			"price": "Starting at $395 per month",
+			"pricing_model": "Full cost depends on number of users, projects, and storage requirements",
+			"num_users": "Customizable",
+			"storage": "Customizable",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "Customizable"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "Customizable"
+			}]
+		}, {
+			"name": "Number of Projects",
+			"definition": "",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "Customizable"
+			}]
+		}, {
+			"name": "Deal-Grade Service",
+			"definition": "24/7/365 Support",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dedicated Project Management",
+			"definition": "Planning call, support & site configuration.",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Pricing Transparency",
+			"definition": "Track project costs ensuring no hidden fees.",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Branded Website",
+			"definition": "Brand room and login page with logos and colors at no additional charge.",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Audit Reports",
+			"definition": "",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dimensional Security",
+			"definition": "Sophisticated site administration security controls, manage user access, and each room uses a segregated database.",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Configurable Document Watermarking",
+			"definition": "Document watermarks based on user rights modifiable for print, access level, project name, user name, and date/access time.",
+			"value": [{
+				"name": "SmartRoom Pricing",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "ShareVault",
+		"last_update": "February 2018",
+		"urlSlug": "ShareVault",
+		"logoURL": "images/ShareVault-Enterprise-virtual-data-room.jpg",
+		"anchor": "sharevault",
+		"pubSite": "https://www.sharevault.com/product/plans",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "ShareVault",
+		"tagline": "With ShareVault virtual data rooms, you're in control",
+		"usecases": ["Due Diligence & Deal Making", "Enterprise Communications", "Investor Communications", "Litigation Support"],
+		"industries": ["Life Sciences", "Law Practices"],
+		"avg_review_rating": "",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "",
+		"popularity": 390,
+		"rank": 6,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "4.5",
+			"num_ratings": "15",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "4.9",
+			"num_ratings": "4",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "4.41",
+			"num_ratings": "34"
+		}, {
+			"source": "cap",
+			"avg_rating": "4.5",
+			"num_ratings": "34"
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Fully Configurable Doc Security Policies", "Customized Dynamic Watermarking", "Remote Shredding", "Secure Print", "Prevent Screenshots", "Two-Factor Authentication", "Encryption", "ISO 27001 Certified Datacenter"],
+			"doc_management": ["Full Text Search", "Document Synopses", "Document Relevance Ranking", "Smart Filters", "Drag & Drop File Upload", "Batch Download", "Inter-document Hyperlinking"],
+			"user_management": ["Information Rights Management", "Document Access Tracking", "Activity Reporting"],
+			"collaboration": ["Questions and Answers with Privacy Settings"],
+			"accessibility": ["Granular Access Controls", "Prevent Print & Copy/Paste", "Prevent Save", "iOS & Android Apps", "Multiple Language Support", "Works with All Major Browsers", "PDF Conversion for 40+ File Types"],
+			"client_management": ["No Client Management Capabilities Listed"],
+			"integration": ["SAS Analytics", "Microsoft SharePoint", "Microsoft Office 365", "Box", "Dropbox", "DocuSign", "Web Services API", "Single Sign-On", "Embeddable Data Room Components"],
+			"customization": ["No Customization Features Listed"],
+			"reporting": ["User Activity Reporting", "Permissions Reporting"],
+			"support": ["Built-in Help Pages", "Video Tutorials", "24/7/365 Email/Web/Phone Support", "Scheduled Trainings by Webinar", "One-on-One Training"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "ShareVault Express",
+			"tagline": "Everything you need to get started using ShareVault for secure document sharing",
+			"price": "Consultation Required",
+			"pricing_model": "based on number of users and storage needs",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "ShareVault Pro",
+			"tagline": "Full-featured solution for the most demanding applications",
+			"price": "Consultation Required",
+			"pricing_model": "based on number of users and storage needs",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Granular Access Controls",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Fully Configurable Document Security Policies",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Customized Dynamic Watermarking",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Prevent Print, Copy/Paste, & Save",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Information Rights Management",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Remote Shredding",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Secure Printing",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Prevent Screen Capture",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Heirarchal Permission Tags",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Instant Full-text Search",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Smart Filters",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Activity Reporting",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Access Tracking",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Drag and Drop Files",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "View Time Reporting",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Help Pages with Video Tutorials",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Batch Download",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "Only for Administrators"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Batch Printing",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Inter-Document Hyperlinking",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "Question / Answer with Privacy Settings",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Support for Chrome, Firefox, & Safari",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Permissions Reports",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "PDF Conversion for 40+ Filetypes",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "HIPAA Compliance",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Title 21 CFR 21 Part 11 Compliance",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Two-Factor Authentication",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Encryption",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "ISO 27001 Certified",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Microsoft SharePoint Integration",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "Microsoft Office 365 Integration",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "Box Integration",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "DropBox Integration",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "DocuSign",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "Web Services API",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "Embeddable Data Room Components",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "no"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "Optional"
+			}]
+		}, {
+			"name": "24/7/365 Phone Support",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}, {
+			"name": "One-on-One Training",
+			"definition": "",
+			"value": [{
+				"name": "ShareVault Express",
+				"value": "yes"
+			}, {
+				"name": "ShareVault Pro",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "Merrill Datasite",
+		"last_update": "March 2018",
+		"urlSlug": "Merrill-Datasite",
+		"logoURL": "images/Merrill-Datasite-virtual-data-room.jpg",
+		"anchor": "merrill-datasite",
+		"pubSite": "https://www.merrillcorp.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "Merrill Corporation",
+		"tagline": "Close deals quickly with the only virtual data room backed by global, hands-on expertise.",
+		"usecases": ["Corporate Finance", "Corporate Development", "Corporate Legal Management", "Corporate Sales, Marketing, & Communication", "Corporate Compliance", "Corporate Procurement", "Regulatory Disclosure", "Mergers & Acquisition", "Capital Transactions", "Exchange Offers"],
+		"industries": ["Investment Banking", "Private Equity", "Law Firms", "Medical", "Research Institutions", "Life Sciences"],
+		"avg_review_rating": "3.5",
+		"avg_review_img": "3-star.png",
+		"num_reviews": "2",
+		"popularity": 7,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "3.5",
+			"num_ratings": "2",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "cap",
+			"avg_rating": "5",
+			"num_ratings": "1"
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["ISO 27001 Compliant", "256-Bit SSL Encryption", "Two-Factor Password Authentication"],
+			"doc_management": ["Automatic OCR on Scanned Documents", "Full Text Search", "Document Indexing"],
+			"user_management": ["Assign View/Print/Download Access to Users"],
+			"collaboration": ["Q&A Capabilities", "Assign Questions", "Link Answers to Documents"],
+			"accessibility": ["Less than 2 Hours to Startup"],
+			"client_management": [],
+			"integration": ["Microsoft Office"],
+			"customization": ["Customize Archive"],
+			"reporting": ["Free Custom Archive", "User Activity Logs", "Q&A Activity Summary", "Negotiation Oriented Insights", "Audit Trail of User Views/Downloads"],
+			"support": ["24/7/365 Support", "Project Management Services Available", "Dedicated Project Managers"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "Merrill Datasite Pricing",
+			"tagline": "",
+			"price": "Consultation Required",
+			"pricing_model": "will depend on number of projects, total storage, and number of users",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Merrill Datasite Pricing",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Merrill Datasite Pricing",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Features",
+			"definition": "",
+			"value": [{
+				"name": "Merrill Datasite Pricing",
+				"value": "All Merrill Datasite Features Included"
+			}]
+		}]
+	}, {
+		"name": "Datarooms.com",
+		"last_update": "March 2018",
+		"urlSlug": "Datarooms.com",
+		"logoURL": "images/datarooms.com-virtual-data-room.jpg",
+		"anchor": "dataroomscom",
+		"pubSite": "http://www.datarooms.com/",
+		"type": "Virtual Data Room",
+		"company": "DataRooms.com LLC",
+		"tagline": "Delivering World Class Virtual Data Room Services",
+		"usecases": ["Sell Side Mergers & Acquisitions", "Buy Side Mergers & Acquisitions", "Debt & Equity Fundraising", "Private Placements", "Bankruptcy & Restructuring", "Loan Syndication", "Legal Proceedings", "Governance & Finance", "Regulatory Compliance & Reporting", "Investor Reporting", "Joint Ventures & Strategic Alliances", "Intellectual Property Development & Licensing", "Strategic Procurement", "Secure Document Exchange", "Oil & Gas Acquisitions & Divestitures", "Commercial Real Estate Investment Sales"],
+		"industries": ["Investment Banking", "Commercial Banking", "Private Equity", "Life Sciences & Pharmaceuticals", "Energy, Oil & Gas", "Legal", "Commercial Real Estate", "Corporate"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "1",
+		"popularity": 5,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": ""
+		}],
+		"price": "Starting at $299 per month",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Digital Document Watermarks", "Require Digitally Signed Agreements before Access"],
+			"doc_management": ["Drag & Drop Upload", "Bulk Upload", "Batch Download & Printing", "Prevent Document Save, Print, & Copy/Paste", "Prevent Document Screenshots", "Remote Shredding of Documents", "Search by Name or Description", "Content Search Using Optimized Index", "OCR on Scanned Documents"],
+			"user_management": ["Unlimited User Groups", "Document-Level Permission Settings", "Inherited Object-Level Permissions", "Multiple User Import"],
+			"collaboration": ["Advanced Question & Answer Module", "Document Level Comment Threads", "Secure User Messaging"],
+			"accessibility": ["No Software Required for Secure Viewing", "Automatic Numberical Indexing of Data Room Content", "Secure Mobile Viewer for iOS"],
+			"client_management": ["No Client Management Features Listed"],
+			"integration": ["Microsoft Excel"],
+			"customization": ["Customizable Watermarks"],
+			"reporting": ["Real-Time Audit Trail of User Activity", "Associate Activity with Location of User", "Scheduled Email Notifications of User Activity", "View Duration Tracking", "Print Tracking", "User Access Notifications", "New Document Email Notifications"],
+			"support": ["Help Desk Support", "Email & Phone Support", "Live Chat for Support", "Dedicated Account Managers"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "Basic",
+			"tagline": "",
+			"price": "Starting at $299 per month",
+			"pricing_model": "Additional cost for added storage; discounted rates for multi-month commitments",
+			"num_users": "Unlimited",
+			"storage": "1GB - 100GB",
+			"max_file_size": ""
+		}, {
+			"name": "Pro",
+			"tagline": "",
+			"price": "Starting at $499 per month",
+			"pricing_model": "Additional cost for added storage; discounted rates for multi-month commitments",
+			"num_users": "Unlimited",
+			"storage": "1GB - 100GB",
+			"max_file_size": ""
+		}, {
+			"name": "Premium",
+			"tagline": "",
+			"price": "Starting at $699 per month",
+			"pricing_model": "Additional cost for added storage; discounted rates for multi-month commitments",
+			"num_users": "Unlimited",
+			"storage": "1GB - 100GB",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "Unlimited"
+			}, {
+				"name": "Pro",
+				"value": "Unlimited"
+			}, {
+				"name": "Premium",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "1GB - 100GB"
+			}, {
+				"name": "Pro",
+				"value": "1GB - 100GB"
+			}, {
+				"name": "Premium",
+				"value": "1GB - 100GB"
+			}]
+		}, {
+			"name": "Unlimited Users & User Security Groups",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Level Permissions",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Inherited Object-Level Permissions",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Extended Administrative Levels & Control",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Real-Time, Tamper-Proof Audit Trail of User Activity",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "IP Address Geocoding",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Watches for Schedule Notifications of User Activity",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Track Length of View for Pages/Documents",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Track Document Printing",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Customizable Digital Document Watermarks",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Prevent Save, Print, & Copy/Paste Operations",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Remote Digital Shredding of Documents",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "No Software Required Options for Secure Document Viewing",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Advanced Question & Answer Module",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Automatic Numerical Indexing of Data Room Content",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Export Data Room Indexes to Excel",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "User Access Notifications",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Level Comment Threads",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Secure User Messaging",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "New Document Email Notifications",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Drage & Drop Upload of Multiple Documents & Folders",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Batch Downloading of Multiple Documents & Folders",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Batch Printing of Multiple Documents & Folders",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Multiple User Import",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document & Folder Search by Name or Description",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Document Content Search Using Optimized Index",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Optical Character Recognition to Make Scanned Docs Searchable",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Data Room Wide Filters on Documents Using Critical Metrics",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Requires Users to e-Sign Documents before Access",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Assign Different Aggreements to Different User Groups",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Email Notifications upon Agreement Execution",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Automated Web Registration Module for Interested Parties",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Upload of Marketing Brochure to Provide Offering Highlights",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Link Users to Data Room Registration from Email Blasts",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "no"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Data Rooms Secure Mobile Viewer for iOS",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "no"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Creation of DVD Archive with All Data Room Content & User Activity Records (Additional Fee)",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Pro",
+				"value": "yes"
+			}, {
+				"name": "Premium",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "RR Donnelley Venue",
+		"last_update": "March 2018",
+		"urlSlug": "RR-Donnelley-Venue",
+		"logoURL": "images/RR-Donnelley-Venue.jpg",
+		"anchor": "rr-donnelley",
+		"pubSite": "http://www.dfsco.com/venue/",
+		"type": "Virtual Data Room",
+		"company": "RR Donnelley",
+		"tagline": "The data room of choice for managing critical information",
+		"usecases": ["Mergers & Acquisitions", "IPO", "Restructuring", "Fundraising", "Investor Reporting", "IP Protection"],
+		"industries": ["Healthcare/Life Sciences", "Energy", "Technology", "Real Estate/Construction", "Telecom", "Government"],
+		"avg_review_rating": "3.9",
+		"avg_review_img": "4-star.png",
+		"num_reviews": "7",
+		"popularity": 27.3,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "3.9",
+			"num_ratings": "7",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["256-Bit Encryption", "Password Protection", "Strict Adherence to AT 101 SOC 2 Standards", "HIPAA", "CFR Title 21 Part 11", "Custom Watermarking", "Revoke Document Access after Download", "Annual Hack Tested"],
+			"doc_management": ["Bulk File/Folder Actions", "File Indexing", "Microsoft's File & Folder Structure"],
+			"user_management": ["File/Folder Level User Permissions", "Information Rights Management Technology", "Set View, Print, & Save Access Rights", "Protection from Screen Snapshot Technology"],
+			"collaboration": ["No Collaboration Features Specified"],
+			"accessibility": ["Optimized for Maximum Transfer Speed", "10 Languages", "Works from Any Device"],
+			"client_management": ["No Client/Bidder Management Features Listed"],
+			"integration": ["Google Search"],
+			"customization": ["24/7/365", "US Support Team", "Custom Alerts"],
+			"reporting": ["On Demand Reports"],
+			"support": ["24/7 Assistance", "Dedicated Project Managers", "User Access Assistance", "Translations", "Printing On-Demand", "Edgarizing Documents", "Disclosure Compliance", "Arranging a Physical Data Room", "Content Formatting Assistance"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "RR Donnelley Pricing",
+			"tagline": "",
+			"price": "Consultation Required",
+			"pricing_model": "No Pricing Information Available from RR Donnelley",
+			"num_users": "",
+			"storage": "",
+			"max_file_size": ""
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "RR Donnelley Pricing",
+				"value": "Customizable"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "RR Donnelley Pricing",
+				"value": "Customizable"
+			}]
+		}, {
+			"name": "Features",
+			"definition": "",
+			"value": [{
+				"name": "RR Donnelley Pricing",
+				"value": "All Listed RR Donnelley VDR Features Included"
+			}]
+		}]
+	}, {
+		"name": "Lightserve",
+		"last_update": "March 2018",
+		"urlSlug": "Lightserve",
+		"logoURL": "images/Lightserve-virtual-data-room.jpg",
+		"anchor": "lightserve",
+		"pubSite": "https://lightserve.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "Lightserve Corporation",
+		"tagline": "The best value in full-featured virtual data rooms",
+		"usecases": ["Any Use"],
+		"industries": ["Any Industry"],
+		"avg_review_rating": "5",
+		"num_reviews": "1",
+		"popularity": 5,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "0",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}],
+		"price": "Starting at $29 per month",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Watermarks on Screen", "Watermarks on Downloaded Files", "256-Bit Encryption"],
+			"doc_management": ["Drag and Drop", "Intelligent List Ordering", "Bulk Upload", "Bulk Download", "USB Flash Drive Archive"],
+			"user_management": ["View Only Permissions", "Unlimited Sub-Accounts", "Sub-Account Permissioning"],
+			"collaboration": ["Notifications"],
+			"accessibility": ["All Major Document Formats"],
+			"client_management": ["Client Upload"],
+			"integration": ["Enterprise Customization"],
+			"customization": ["Branding", "Font/Color Customization", "Custom Domain/Subdomain"],
+			"reporting": ["Detailed Audit Trail"],
+			"support": ["Priority Support", "Dedicated Account Executive"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "One Data Room",
+			"tagline": "Lowest Price",
+			"price": "$29 per Month",
+			"pricing_model": "First Month Free",
+			"num_users": "Unlimited",
+			"storage": "1GB",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Unlimited Data Rooms",
+			"tagline": "Recommended",
+			"price": "$79 per Month",
+			"pricing_model": "First Month Free",
+			"num_users": "Unlimited",
+			"storage": "25GB",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "White Label",
+			"tagline": "Fully Customizable",
+			"price": "$299 per Month",
+			"pricing_model": "First Month Free",
+			"num_users": "Unlimited",
+			"storage": "100GB",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "View-Only Permissions",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "All Major Document Formats",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Watermarks on Screen",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Drag and Drop",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Intelligent List Ordering",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom List Ordinals",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "256-Bit SSL Encryption",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Detailed Audit Trail",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Branding",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "yes"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Bulk Upload",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Client Upload",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Notifications",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Priority Support",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Bulk Download",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Larger Storage Options Available",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "USB Flash Drive Archive",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "yes"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Font/Color Customization",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Custom Domain or Subdomain",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Unlimited Sub-Accounts",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Sub-Account Permissions",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Dedicated Account Executive",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}, {
+			"name": "Enterprise Customization",
+			"definition": "",
+			"value": [{
+				"name": "One Data Room",
+				"value": "no"
+			}, {
+				"name": "Unlimited Data Rooms",
+				"value": "no"
+			}, {
+				"name": "White Label",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "SecureDocs",
+		"last_update": "March 2018",
+		"urlSlug": "SecureDocs",
+		"logoURL": "images/SecureDocs-Virtual-Data-Room.jpg",
+		"anchor": "securedocs",
+		"pubSite": "http://www.securedocs.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "SecureDocs, Inc.",
+		"tagline": "Your Virtual Data Room from Start Up to Exit...",
+		"usecases": ["Mergers & Acquisitions", "Fundraising", "Joint Ventures", "IPO", "Managing/Licensing IP", "Board Communications", "Archiving Critical Documents", "Preparing for Audits"],
+		"industries": ["Technology", "Life Sciences", "Investment Banking", "Legal Firms", "Private Equity & Venture Capital"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "89",
+		"popularity": 445,
+		"rank": 2,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "44",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "5",
+			"num_ratings": "35",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}],
+		"price": "Starting at $250 per Month",
+		"description": {
+			"main": "SecureDocs is a powerful virtual data room that keeps an emphasis on simplicity. This simplicity also extends to SecureDocs' flat rate pricing model, which starts at $250 / month. They also offer price breaks for committing to a longer contract or to organizations using a high volume of project spaces. Even with a simple interface and straight-forward pricing, SecureDocs is top-tier in terms of security, with key security features like two-factor authentication, watermarking, and strong user permission options.",
+			"reviews": "SecureDocs receives overwhelmingly positive reviews across a number of different review sites with users touting their superior customer service and slick interface. SecureDocs also used to be a division of Appfolio, a leader in property management software with an A+ BBB rating. So while SecureDocs does not yet have a rating on BBB, customer reviews across the web demonstrate that they adhere to the same quality of service that Appfolio offers.",
+			"features": "SecureDocs' feature offering is mainly focused around security and ease of use, for example, their customizable NDAs and customizable permissions. Even thought SecureDocs isn't packed with features, they are compliant with HIPAA regulations and use extremely secure data centers. This compliance, extreme security, and ease of use make them a great option for several industries, including life sciences, investment banking, and private equity.",
+			"industriesuses": "SecureDocs offers scalable virtual data room solutions with transparent pricing. Their solution fits particularly well with the needs of the technology, life sciences, investment banking, venture capital and law industries, but it can truly be used for businesses in any industry. SecureDocs' product is also designed with specific features to assist companies in many different situations, including Sell-Side M&A, Buy-Side M&A, Raising Capital, Rights Issues, Strategic Partnerships, IPOs.",
+			"security": "SecureDocs is a contender to be one of the most secure data room products on the market. The company uses certified Amazon Services data centers which are ISO 27001 certified, offer SOC 1, 2, & 3 reports and are proteced by a number of physical security measures. They also provide a large number of features focused on providing maximum security to their clients. Any data sent, received, or stored with SecureDocs is encrypted using top-of-the-line encryption standards. They also include two-factor authentication and detailed activity reports to monitor user activity.",
+			"reporting": "SecureDocs is not the leader in terms of reporting / analytics, however, they do report a sufficient amount of useful analytics information. SecureDocs keeps an audit log which tracks all user activity, along with timestamps. Furthermore, they make it very straightforward to export and email the audit log to data room administrators. Once the data room is no longer needed, administrators can zip and download data room files for reference later.",
+			"service": "SecureDocs is very easy to use, so a support-based onboarding process is not necessary and they do not provide a dedicated onboarding specialist. However, they do offer 24/7 online and phone support if users have questions or need help with the product. They do not have online chat, which means you'll have to contact them via email or over the phone."
+
+
+
+
+		},
+		"features": {
+			"security": ["Watermarking", "Two-Factor Authentication", "Disable Printing", "No Back-End Access to Data", "Require NDA", "ISO 27001 Compliance", "SOC 2 Compliance", "Onsite Security Officers 24/7", "Firewalls & Intrusion Detection", "Amazon Web Services Data Centers", "Complete Segmentation of Data", "Two Factor Authentication", "View-Only for PDF & MS Office Docs", "Dynamic Watermarking", "End to End Encryption of Data", "One-Click Privacy Blind"],
+			"doc_management": ["Drag/Drop of Folders & Documents", "Quick Search for Documents/Users", "Folder Tree for Navigation"],
+			"user_management": ["Permission Based User Roles", "Granular Access Control", "Individual or Group Roles", "Personal Messages with User Invitations"],
+			"collaboration": ["No Collaboration Features Listed"],
+			"accessibility": ["No Plugins", "Functions on All Major Browsers", "Remembers Authenticated Computers for 30 Days"],
+			"client_management": ["Potential Investor Summaries"],
+			"integration": ["No Integrations Listed"],
+			"customization": ["Customizable NDAs", "Brandable Invites, Watermarks, & Data Room Interfaces"],
+			"reporting": ["New Document Email Notifications", "Daily Audit Log", "Email Notifications of Daily Activities", "Timestamped User Tracking", "Export Audit Log", "Daily Email Report"],
+			"support": ["24/7 Support", "Free Implementation", "No Training Required", "Online Training Videos", "Phone & Email Support", "Supported Data Room Migration"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "3 Month Plan",
+			"tagline": "For short term projects such as M&A, divestments, and bankruptcy.",
+			"price": "$400 per data room per month",
+			"pricing_model": "Billed Quarterly",
+			"num_users": "Unlimited",
+			"num_projects": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "12-Month Plan",
+			"tagline": "For long term projects and repeat use cases such as fundraising.",
+			"price": "$250 per data room per month",
+			"pricing_model": "Billed Annually",
+			"num_users": "Unlimited",
+			"num_projects": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Volume Packages",
+			"tagline": "For clients running multiple concurrent deals.",
+			"price": "From $100 per data room per month",
+			"pricing_model": "Billed Annually",
+			"num_users": "Unlimited",
+			"num_projects": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [
+
+			{
+				"name": "Data Storage",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "Unlimited"
+				}, {
+					"name": "Annual Plan",
+					"value": "Unlimited"
+				}, {
+					"name": "Volume Plan",
+					"value": "Unlimited"
+				}]
+			}, {
+				"name": "Number of Users",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "Unlimited"
+				}, {
+					"name": "Annual Plan",
+					"value": "Unlimited"
+				}, {
+					"name": "Volume Plan",
+					"value": "Unlimited"
+				}]
+			}, {
+				"name": "Unlimited Support and Training",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Customizable Permissions",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Restrict User Actions",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Two-Factor Authentication",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Preview Permissions as Any User",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Ongoing Upgrades",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Document Migration & Setup",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Branding - Logo & Unique URL",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Drag & Drop Docs & Folders",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Document Watermarking",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "View As Any User",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Click-Through NDA",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}, {
+				"name": "Dedicated Account Manager",
+				"definition": "",
+				"value": [{
+					"name": "3 Month Plan",
+					"value": "yes"
+				}, {
+					"name": "Annual Plan",
+					"value": "yes"
+				}, {
+					"name": "Volume Plan",
+					"value": "yes"
+				}]
+			}
+		]
+	}, {
+		"name": "Drooms NXG",
+		"last_update": "March 2018",
+		"urlSlug": "Drooms",
+		"logoURL": "images/Drooms-virtual-data-rooms.jpg",
+		"anchor": "drooms",
+		"pubSite": "https://www.drooms.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "Drooms GmbH",
+		"tagline": "The revolution in due diligence",
+		"usecases": ["Due Diligence", "Asset Life Cycle Management", "Executive Communications", "Secure Document Access"],
+		"industries": ["Real Estate", "Legal", "Corporate Finance + M&A", "Life Sciences", "Energy"],
+		"avg_review_rating": "4.9",
+		"num_reviews": "33",
+		"popularity": 162,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "1",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": ""
+		}, {
+			"source": "ga",
+			"avg_rating": "4.8",
+			"num_ratings": "16"
+		}, {
+			"source": "cap",
+			"avg_rating": "5",
+			"num_ratings": "16"
+		}],
+		"price": "Starting at $11 per month",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Two-Factor Authentication", "256-Bit Encryption"],
+			"doc_management": ["Full Text Search", "Real Time Document Viewing", "Multi-colored Bookmarking"],
+			"user_management": ["Advanced Permissions", "User Groups"],
+			"collaboration": ["Question & Answer", "Notes & Highlights"],
+			"accessibility": ["Document Translation", "English, German, French, Spanish, & Italian", "Windows and Mac Compatible"],
+			"client_management": ["No Client Management Capabilities Listed"],
+			"integration": ["No Integrations Listed"],
+			"customization": ["Branding"],
+			"reporting": ["Full, Real-time Activity Reporting"],
+			"support": ["24/7 Customer Support"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "Basic",
+			"tagline": "",
+			"price": "€9.90 per user per month",
+			"pricing_model": "per user per month",
+			"num_users": "10+ users",
+			"storage": "3+ GB",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Medium",
+			"tagline": "",
+			"price": "€19.90",
+			"pricing_model": "per user per month",
+			"num_users": "10+ users",
+			"storage": "3+ GB",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Large",
+			"tagline": "Data room suited just for your business",
+			"price": "€39.90",
+			"pricing_model": "per user per month",
+			"num_users": "10+ users",
+			"storage": "3+ GB",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Enterprise",
+			"tagline": "",
+			"price": "Consultation Required",
+			"pricing_model": "",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Data Rooms",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "One"
+			}, {
+				"name": "Medium",
+				"value": "Two"
+			}, {
+				"name": "Large",
+				"value": "Six"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "10+ Users"
+			}, {
+				"name": "Medium",
+				"value": "10+ Users"
+			}, {
+				"name": "Large",
+				"value": "10+"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "3+ GB"
+			}, {
+				"name": "Medium",
+				"value": "3+ GB"
+			}, {
+				"name": "Large",
+				"value": "3+ GB"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "All Drooms NXG Features Included",
+			"definition": "",
+			"value": [{
+				"name": "Basic",
+				"value": "yes"
+			}, {
+				"name": "Medium",
+				"value": "yes"
+			}, {
+				"name": "Large",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "HighQ",
+		"last_update": "March 2018",
+		"urlSlug": "HighQ",
+		"logoURL": "images/HighQ-Dataroom.jpg",
+		"anchor": "highq",
+		"pubSite": "https://highq.com/",
+		"type": "Secure File Sync & Sharing Platform and Virtual Data Room",
+		"company": "HighQ Solutions Limited",
+		"tagline": "Transform the way your business collaborates, communicates and shares information securely in the cloud",
+		"usecases": ["Portfolio Management", "Due Diligence", "Contract Management", "Legal Project Management", "Mergers & Acquisition", "Document Automation", "Fundraising & Investor Management", "Client Knowledge Portals"],
+		"industries": ["Law Firms", "Corporate Legal", "Financial Services", "Government", "Enterprise"],
+		"avg_review_rating": "4",
+		"avg_review_img": "4-star.png",
+		"num_reviews": "5",
+		"popularity": 20,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "4",
+			"num_ratings": "5",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "0",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "0",
+			"num_ratings": "0"
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["Watermarking", "ISO 27001 Certified", "SSAE 16 type II Certified"],
+			"doc_management": ["Rapid File Uploads", "Automatic Share-Link Expiration", "Document Expiration & Auto-Deletion", "ZIP Bulk Upload", "Full Text Document Search", "Email Upload", "Bulk Upload", "Automatic Doc OCR"],
+			"user_management": ["User Permission Management", "Create User Groups", "Digital Rights Management", "File/Folder-Level Permissions", "Disable Saving/Printing", "Set Permissions as View Only", "Automatic Parties List", "Restricted Views for Bidders"],
+			"collaboration": ["Comment on Documents & Files", "Create Secure Share Links", "Q&A Module", "Filter Q&A"],
+			"accessibility": ["Responsive Mobile Design", "Compatible with Any Device", "Setup New Data Room in Minutes", "No Plugins Required", "Import & Export Data", "Single Login for Multiple Projects"],
+			"client_management": ["Client Portals"],
+			"integration": ["Microsoft Excel"],
+			"customization": ["Custom Notifications"],
+			"reporting": ["User Action Audit Log", "File History Log", "Alerts", "'Most Active Users' Reports", "Page-Level Reporting", "Advanced Graphical Reporting", "Drill Down into Reports", "Export All Reports to Excel"],
+			"support": ["24/7 Support", "Email & Phone Support", "Help Desk Support"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "Single Use Data Room",
+			"tagline": "For one-off deals, we offer individual premium data rooms that come with 24/7 project management as standard.",
+			"price": "Consultation Required",
+			"pricing_model": "pricing calculated from user/storage requirements and included features",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Multi Use Data Room",
+			"tagline": "Multi use data rooms can be reused as many times as you need, without the additional set-up cost. Perfect if you run several deals a year.",
+			"price": "Consultation Required",
+			"pricing_model": "pricing calculated from user/storage requirements and included features",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}, {
+			"name": "Enterprise Data Room",
+			"tagline": "If storage is a priority, we offer an enterprise data room. No storage limit and no project management; just buy the platform and go.",
+			"price": "Consultation Required",
+			"pricing_model": "pricing calculated from user/storage requirements and included features",
+			"num_users": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [{
+			"name": "Number of Data Rooms",
+			"definition": "",
+			"value": [{
+				"name": "Single Use",
+				"value": "One"
+			}, {
+				"name": "Multi-Use",
+				"value": "One"
+			}, {
+				"name": "Enterprise",
+				"value": "One"
+			}]
+		}, {
+			"name": "Number of Users",
+			"definition": "",
+			"value": [{
+				"name": "Single Use",
+				"value": "Unlimited"
+			}, {
+				"name": "Multi-Use",
+				"value": "Unlimited"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "Storage",
+			"definition": "",
+			"value": [{
+				"name": "Single Use",
+				"value": "Unlimited"
+			}, {
+				"name": "Multi-Use",
+				"value": "Unlimited"
+			}, {
+				"name": "Enterprise",
+				"value": "Unlimited"
+			}]
+		}, {
+			"name": "All HighQ Features Included",
+			"definition": "",
+			"value": [{
+				"name": "Single Use",
+				"value": "yes"
+			}, {
+				"name": "Multi-Use",
+				"value": "yes"
+			}, {
+				"name": "Enterprise",
+				"value": "yes"
+			}]
+		}]
+	}, {
+		"name": "V-Rooms",
+		"last_update": "March 2018",
+		"urlSlug": "V-Rooms",
+		"logoURL": "images/V-Rooms-virtual-data-room-logo.jpg",
+		"anchor": "v-rooms",
+		"pubSite": "http://www.v-rooms.com/",
+		"type": "Virtual Data Room",
+		"company": "Vault Rooms, Inc.",
+		"tagline": "A Data Room Designed for Ease of Use",
+		"usecases": ["Mergers & Acquisitions", "Bankruptcy/Restructuring", "Litigation Preparation", "Document Repository", "Fund Reporting", "PPM/PIPE", "Commercial Real Estate", "Boardroom Communications"],
+		"industries": ["Accounting", "Investment Banking", "Corporations", "Legal", "Life Sciences", "M&A Finance"],
+		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
+		"num_reviews": "40",
+		"popularity": 200,
+		"rank": 20,
+		"reviews_summary": [{
+			"source": "si",
+			"avg_rating": "5",
+			"num_ratings": "40",
+			"snippets": ""
+		}, {
+			"source": "g2",
+			"avg_rating": "",
+			"num_ratings": "0",
+			"snippets": ""
+
+		}, {
+			"source": "tr",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}, {
+			"source": "ga",
+			"avg_rating": "",
+			"num_ratings": "0"
+		}],
+		"price": "Consultation Required",
+		"description": {
+			"main": "",
+			"reviews": "",
+			"industriesuses": "",
+			"security": "",
+			"features": "",
+			"reporting": "",
+			"service": ""
+		},
+		"features": {
+			"security": ["256-bit Encryption with 2048-bit Keys", "Dynamic Watermarking", "Two-Factor Authentication", "Third Party Security Penetration Testing", "Amazon Web Services for Security Monitoring & Load Balancing", "AlertSite Monitoring", "Multi-Layered Data Encryption", "Managed Firewall & Intrusion Detection", "Antivirus Protection", "Single Point of Access for Data Center Entry", "Iris and Biometric Fingerprint Scans for Data Center", "SOC 2 compliant Data Center (Amazon Web Services)", "ISO 270001 (Amazon Web Services)", "SEC Rule 17g-5 Validation", "21 CFR Part 11 Validation", "HIPAA Certification", "Safe Harbor Compliant"],
+			"doc_management": ["Continuous Data Backup", "Drag & Drop Upload", "Bulk Upload", "Large File Upload"],
+			"user_management": ["Granular Access Permission Settings", "Password Policy Management", "9-Levels of Document Access Rights", "Viewing, Printing and Download Controls", "Revoke Document Access (Even after Download)"],
+			"collaboration": ["No Collaboration Features Listed"],
+			"accessibility": ["Instantaneous Setup & Deployment", "PC & Mac Compatible", "All Major Browsers Supported", "All File Formats Supported", "No Plugins Required", "99.5% Uptime", "Load Balanced Servers", "Business Conintuity & Disaster Recovery Planning", "Multiple Availability Zones & Redundant Data Centers", "Redundant, Uninterrupted Power Supply", "Embeddable Login Frame"],
+			"client_management": ["Alert Clients of Changes to Docs"],
+			"integration": ["Integrate Data Room into Website"],
+			"customization": ["Custom Branding", "Customizable Password Policies", "Customizable Watermarks", "Industry & Project Specific Data Room Templates", "White Label Data Room Branding", "Custom Disclaimer Content", "Custom Landing Page Text, Image, & Videos", "Control User Exit Page"],
+			"reporting": ["Email Alerts on Download or Change", "Extensive Logging", "Audit Reporting", "Document Activity Records", "Guest Activity Records"],
+			"support": ["Automated Setup 24/7", "24/7/365 Client Care Specialists", "Weekend & Holiday Support", "Response Times Less Than 15 Minutes", "No Transferred Calls", "Documentation, Videos, & FAQ Pages Available"]
+		},
+		"compare_features": {
+			"256-bit Encryption": "yes",
+			"watermarking": "yes"
+		},
+		"plans": [{
+			"name": "V-Rooms Pricing",
+			"tagline": "Over 10 years as a trusted partner enabling workflow and secure file sharing for over 500,000",
+			"price": "Consultation Required",
+			"pricing_model": "Pricing Determined by Storage, Project, & License Needs",
+			"num_users": "Unlimited",
+			"num_projects": "Unlimited",
+			"storage": "Unlimited",
+			"max_file_size": "Unlimited"
+		}],
+		"pricing_plan_bullets": [
+
+			{
+				"name": "Number of Projects",
+				"definition": "",
+				"value": [{
+					"name": "V-Rooms Pricing",
+					"value": "Unlimited"
+				}]
+			}, {
+				"name": "Number of Users",
+				"definition": "",
+				"value": [{
+					"name": "V-Rooms Pricing",
+					"value": "Unlimited"
+				}]
+			}, {
+				"name": "Features",
+				"definition": "",
+				"value": [{
+					"name": "V-Rooms Pricing",
+					"value": "All V-Room Features Included"
+				}]
+			}
+		]
+	}]
+}
