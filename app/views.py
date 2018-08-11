@@ -33,3 +33,17 @@ def about(provider):
     json_url = open(os.path.join(SITE_ROOT, "static/data", "products.json"), "r")
     data = json.load(json_url)
     return render_template("product.html", products=data, provider=provider)
+
+@app.route('/amp/home')
+def index():
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = open(os.path.join(SITE_ROOT, "static/data", "products.json"), "r")
+    data = json.load(json_url)
+    return render_template("index-amp.html", products=data)
+
+@app.route('amp/virtual-data-room-provider/<provider>')
+def about(provider):
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = open(os.path.join(SITE_ROOT, "static/data", "products.json"), "r")
+    data = json.load(json_url)
+    return render_template("product.html", products=data, provider=provider)
