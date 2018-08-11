@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %} {{provider}} - Virtual Data Room Review &amp; Pricing | DataRoomSearch.com{% endblock %}
+{% block description %} {{provider}} complete product profile, including data room pricing, features, and reviews.{% endblock %}
+{% block og_title %} {{provider}} - Virtual Data Room Review &amp; Pricing | DataRoomSearch.com{% endblock %}
+{% block og_description %} {{provider}} complete product profile, including data room pricing, features, and reviews.{% endblock %}
 {% block body %}
 {% for selectedProduct in products.data %}
 {% if selectedProduct.name == provider %}
@@ -277,7 +280,7 @@
 </div>
 {% endif %}
 {% endfor %}
-<script>
+<script type="application/ld+json">
   {{ product_schema | safe }}
 </script>
 {% endblock %}
