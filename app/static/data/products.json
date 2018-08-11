@@ -5713,6 +5713,7 @@
 		"usecases": ["Due Diligence", "Asset Life Cycle Management", "Executive Communications", "Secure Document Access"],
 		"industries": ["Real Estate", "Legal", "Corporate Finance + M&A", "Life Sciences", "Energy"],
 		"avg_review_rating": "4.9",
+		"avg_review_img": "5-star.png",
 		"num_reviews": "33",
 		"popularity": 162,
 		"rank": 20,
