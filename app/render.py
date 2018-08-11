@@ -29,6 +29,7 @@ if __name__ == "__main__":
         data = json.load(json_url)
         for index, product in enumerate(data['data']):
             provider = product['name']
+            url_slug = product['urlSlug']
             relatedProducts = []
             product_schema['image'] = product['logoURL']
             product_schema['url'] = "https://dataroomsearch.com/" + product['urlSlug']
@@ -47,12 +48,12 @@ if __name__ == "__main__":
                 relatedProducts.append(data['data'][index-1])
                 relatedProducts.append(data['data'][index-2])
                 relatedProducts.append(data['data'][index-3])
-            rendered = render_template('product.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts)
+            rendered = render_template('product.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug)
             Html_file= open("app/rendered_pages/virtual-data-room-provider/" + provider + ".html","wb")
             Html_file.write(rendered.encode('utf-8'))
             Html_file.close()
             print(rendered)
-            rendered = render_template('product-amp.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts)
+            rendered = render_template('product-amp.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug)
             Html_file= open("app/rendered_pages/amp/virtual-data-room-provider/" + provider + ".html","wb")
             Html_file.write(rendered.encode('utf-8'))
             Html_file.close()
