@@ -5044,6 +5044,7 @@
 		"usecases": ["Any Use"],
 		"industries": ["Any Industry"],
 		"avg_review_rating": "5",
+		"avg_review_img": "5-star.png",
 		"num_reviews": "1",
 		"popularity": 5,
 		"rank": 20,
