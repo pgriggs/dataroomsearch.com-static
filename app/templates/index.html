@@ -28,7 +28,7 @@
               <div style="padding: 46px;">
                 <div>
                   <img flex style="border-radius:50%;width:50px;border:1px solid #00aded;" src="images/james.png">
-                  <span class="share-text" style="position: absolute;padding: 15px 10px;font-size: 1.25rem;">Updated March 11, 2018 by James Prescott, Security Consultant</span>
+                  <span class="share-text" style="position: absolute;padding: 15px 10px;font-size: 1.25rem;">Updated August 11, 2018 by James Prescott, Security Consultant</span>
                   <!--
                   <div style="padding-top:20px;">
                       <a class="font-bold" style="cursor: pointer;"
@@ -276,14 +276,15 @@
  
                 <br>
                 <hr style="max-width:50%;">
-                <!-- share -->
+                <!-- share 
                 {{ share.create(title='Share with: ',sites='twitter, facebook, linkedin, google') }}
-              </div>
+              </div> -->
           </div>
       </section>
       
       <!--- Product List -->
 {% for product in products.data %}
+  <br id="{{product.urlSlug}}">
   <section class="container">
       <br>
             <div class="row">
