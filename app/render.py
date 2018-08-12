@@ -40,11 +40,11 @@ if __name__ == "__main__":
             product_schema['offers'] = {"@type": "Offer"}
             product_schema['offers']['price'] = product['price']
             product_schema['offers']['priceCurrency'] = "USD"
-            if product['urlSlug'] == provider and index < len(data['data'])-3:
+            if product['urlSlug'] == url_slug and index < len(data['data'])-3:
                 relatedProducts.append(data['data'][index+1])
                 relatedProducts.append(data['data'][index+2])
                 relatedProducts.append(data['data'][index+3])
-            if product['urlSlug'] == provider and index >= len(data['data'])-3:
+            if product['urlSlug'] == url_slug and index >= len(data['data'])-3:
                 relatedProducts.append(data['data'][index-1])
                 relatedProducts.append(data['data'][index-2])
                 relatedProducts.append(data['data'][index-3])
