@@ -3,6 +3,7 @@ from flask import Flask, render_template, url_for, json, request
 
 from flask_assets import Environment, Bundle
 from flask_share import Share
+from PIL import Image
 
 app = Flask(__name__, instance_relative_config=True)
 
@@ -27,6 +28,15 @@ if __name__ == "__main__":
         SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
         json_url = open(os.path.join(SITE_ROOT, "static/data", "products.json"), "r")
         data = json.load(json_url)
+        # compress images and move to build directory
+        for filename in os.listdir("app/static/images/"):
+            if filename.endswith(".jpg") or filename.endswith(".jpeg"):
+                im = Image.open("app/static/images/"+filename)
+                im_rgb = im.convert('RGB')
+                im_rgb.save("app/rendered_pages/images/"+filename,optimize=True,quality=60)
+            else:
+                im = Image.open("app/static/images/"+filename)
+                im.save("app/rendered_pages/images/"+filename)
         for index, product in enumerate(data['data']):
             provider = product['name']
             url_slug = product['urlSlug']
