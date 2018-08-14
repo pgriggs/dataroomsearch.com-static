@@ -4,13 +4,13 @@ from flask import Flask, render_template, url_for, json, request
 from flask_assets import Environment, Bundle
 # from flask_share import Share
 from PIL import Image
-from flask_htmlmin import HTMLMIN
+from htmlmin.minify import html_minify
+
 
 app = Flask(__name__, instance_relative_config=True)
-app.config['MINIFY_PAGE'] = True
 
 # minify html outputs
-HTMLMIN(app)
+
 
 # load social sharing
 # share = Share()
@@ -63,22 +63,22 @@ if __name__ == "__main__":
                 relatedProducts.append(data['data'][index-1])
                 relatedProducts.append(data['data'][index-2])
                 relatedProducts.append(data['data'][index-3])
-            rendered = render_template('product.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug)
+            rendered = html_minify(render_template('product.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug))
             Html_file= open("app/rendered_pages/virtual-data-room-provider/" + url_slug + ".html","wb")
             Html_file.write(rendered.encode('utf-8'))
             Html_file.close()
             print(rendered)
-            rendered = render_template('product-amp.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug)
+            rendered = html_minify(render_template('product-amp.html', products=data, provider=provider, product_schema=json.dumps(product_schema), relatedProducts=relatedProducts, url_slug=url_slug))
             Html_file= open("app/rendered_pages/amp/virtual-data-room-provider/" + url_slug + ".html","wb")
             Html_file.write(rendered.encode('utf-8'))
             Html_file.close()
             print(rendered)
-        rendered_index = render_template("index.html", products=data)
+        rendered_index = html_minify(render_template("index.html", products=data))
         Html_file= open("app/rendered_pages/index.html","wb")
         Html_file.write(rendered_index.encode('utf-8'))
         Html_file.close()
         print(rendered_index)
-        rendered_index = render_template("index-amp.html", products=data)
+        rendered_index = html_minify(render_template("index-amp.html", products=data))
         Html_file= open("app/rendered_pages/amp/home.html","wb")
         Html_file.write(rendered_index.encode('utf-8'))
         Html_file.close()
