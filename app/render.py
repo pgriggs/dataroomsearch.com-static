@@ -2,14 +2,19 @@ import os
 from flask import Flask, render_template, url_for, json, request
 
 from flask_assets import Environment, Bundle
-from flask_share import Share
+# from flask_share import Share
 from PIL import Image
+from flask_htmlmin import HTMLMIN
 
 app = Flask(__name__, instance_relative_config=True)
+app.config['MINIFY_PAGE'] = True
+
+# minify html outputs
+HTMLMIN(app)
 
 # load social sharing
-share = Share()
-share.init_app(app)
+# share = Share()
+# share.init_app(app)
 # Tell flask-assets where to look for our coffeescript and sass files.
 assets = Environment(app)
 
